@@ -1,0 +1,3588 @@
+{'https://www.azlyrics.com/lyrics/a1/foreverinlove.html': <!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content='A1 "Forever In Love": Love leads to laughter Love leads to pain With you by my side I feel good times again Never ha...' name="description"/>
+<meta content="Forever In Love lyrics, A1 Forever In Love lyrics, A1 lyrics" name="keywords"/>
+<meta content="noarchive" name="robots"/>
+<meta content="//www.azlyrics.com/az_logo_tr.png" property="og:image"/>
+<title>A1 - Forever In Love Lyrics | AZLyrics.com</title>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/local/az.css" rel="stylesheet"/>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script charset="UTF-8" data-domain-script="464b7175-7273-4e0f-8753-e9a483d4a156" data-language="en" src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" type="text/javascript"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<script type="text/javascript">
+ArtistName = "A1";
+SongName = "Forever In Love";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+</script>
+</head>
+<body class="az-song-text">
+<nav class="navbar navbar-default navbar-static-top noprint">
+<div class="container">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+<button class="navbar-toggle collapsed" data-target="#search-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-search"></span>
+</button>
+<button class="navbar-toggle collapsed" data-target="#artists-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-th-list"></span>
+</button>
+<a class="navbar-brand" href="//www.azlyrics.com"><img alt="AZLyrics.com" class="pull-left" src="//www.azlyrics.com/az_logo_tr.png" style="max-height:40px; margin-top:-10px;"/></a>
+</div>
+<ul class="collapse navbar-collapse nav navbar-nav" id="artists-collapse">
+<li>
+<div class="btn-group text-center" role="group">
+<a class="btn btn-menu" href="//www.azlyrics.com/a.html">A</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/b.html">B</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/c.html">C</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/d.html">D</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/e.html">E</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/f.html">F</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/g.html">G</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/h.html">H</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/i.html">I</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/j.html">J</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/k.html">K</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/l.html">L</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/m.html">M</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/n.html">N</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/o.html">O</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/p.html">P</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/q.html">Q</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/r.html">R</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/s.html">S</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/t.html">T</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/u.html">U</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/v.html">V</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/w.html">W</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/x.html">X</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/y.html">Y</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/z.html">Z</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/19.html">#</a>
+</div>
+</li>
+</ul>
+<div class="collapse navbar-collapse" id="search-collapse">
+<form action="//search.azlyrics.com/search.php" class="navbar-form navbar-right search" method="get" role="search">
+<div class="input-group">
+<input class="form-control" id="q" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container -->
+</nav>
+<!-- top ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_67Y3"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- main -->
+<div class="container main-page">
+<div class="row">
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+<!-- content -->
+<div class="col-xs-12 col-lg-8 text-center">
+<div class="div-share noprint">
+<div class="addthis_toolbox addthis_default_style">
+<a class="btn btn-xs btn-share addthis_button_facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fforeverinlove.html&amp;title=A1%20-%20Forever%20In%20Love%20Lyrics%20%7C%20AZLyrics.com&amp;display=page" target="_blank">
+<span class="playblk"><img alt="Share on Facebook" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/facebook.svg" title="Share on Facebook" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fforeverinlove.html&amp;text=A1%20-%20Forever%20In%20Love%20Lyrics%20%7C%20AZLyrics.com" target="_blank">
+<span class="playblk"><img alt="Share on Twiiter" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/twitter.svg" title="Share on Twiiter" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_email" href="mailto:?subject=A1%20-%20Forever%20In%20Love%20Lyrics%20%7C%20AZLyrics.com&amp;body=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fforeverinlove.html" target="_blank">
+<span class="playblk"><img alt="Email" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/email.svg" title="Email" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_print" href="javascript:void(window.print());" style="margin-right: 0px !important;">
+<span class="playblk"><img alt="Print" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/print.svg" title="Print" width="25"/></span>
+</a>
+</div>
+</div>
+<div class="div-share"><h1>"Forever In Love" lyrics</h1></div>
+<div class="lyricsh">
+<h2><a href="//www.azlyrics.com/a/a1.html"><b>A1 Lyrics</b></a></h2>
+</div>
+<div class="ringtone">
+<span id="cf_text_top"></span>
+</div>
+<b>"Forever In Love"</b><br/>
+<br/>
+<div>
+<!-- Usage of azlyrics.com content by any third-party lyrics provider is prohibited by our licensing agreement. Sorry about that. -->
+Love leads to laughter<br/>
+Love leads to pain<br/>
+With you by my side<br/>
+I feel good times again<br/>
+<br/>
+Never have I felt these feelings before<br/>
+You showed me the world<br/>
+How could I ask for more<br/>
+<br/>
+And although there's confusion<br/>
+We'll find a solution to keep my heart close to you<br/>
+<br/>
+And I know, yes I know<br/>
+If you hold me, believe me<br/>
+I'll never, never ever leave<br/>
+<br/>
+And I know<br/>
+There is nothing that I would not do for you<br/>
+Forever be true<br/>
+And I know<br/>
+Although times can be hard<br/>
+We will see it through<br/>
+I'm forever in love with you<br/>
+<br/>
+Show me affection<br/>
+In all different ways<br/>
+Give you my heart<br/>
+For the rest of my days<br/>
+<br/>
+With you all my troubles are left far behind <br/>
+Like heaven on earth<br/>
+When I look in your eyes<br/>
+<br/>
+And although there's confusion<br/>
+We'll find a solution<br/>
+To keep my heart close to you<br/>
+<br/>
+And I know, yes I know<br/>
+If you hold me, believe me<br/>
+I'll never, never ever leave<br/>
+<br/>
+And I know<br/>
+There is nothing that I would not do for you<br/>
+Forever be true<br/>
+And I know<br/>
+Although times can be hard<br/>
+We will see it through<br/>
+I'm forever in love with you<br/>
+<br/>
+No need to cry<br/>
+I'll be right by your side<br/>
+(Right by your side)<br/>
+<br/>
+Let's take our time<br/>
+Love won't run dry<br/>
+If you hold me, believe me<br/>
+I'll never, never ever leave<br/>
+<br/>
+And I know<br/>
+There is nothing that I would not do for you<br/>
+Forever be true<br/>
+And I know<br/>
+Although times can be hard<br/>
+We will see it through<br/>
+I'm forever in love<br/>
+And I know<br/>
+There is nothing that I would not do for you<br/>
+<br/>
+Forever be true<br/>
+And I know<br/>
+<br/>
+Oh I know<br/>
+Although times can be hard<br/>
+We will see it through<br/>
+I'm forever in love with you
+</div>
+<br/><br/>
+<!-- MxM banner -->
+<div class="noprint" id="azmxmbanner" style="display:none;">
+<script>
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.getElementById('azmxmbanner').style.display='block';
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="//adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_1149898/su_0/rs_0/tr_3vUCAL09_1NPeBAGA_Ky5gotGY7zDLYFrINtU9SwNr-KxPnKN4uSXoQjSZm8MMqIwib_mNiJ9JuzXT4tZsWk80UOLve75icbP_7OGxPoBK5XZTb6_LOteRR8WyXSsWpQ3QckXMksiE1i3KN4Q-xfNOjZlD9LlJbHJOJTZrhOClHsvMq48MNCyaiwqCeBTAEQ0FGIGP7q4Ye8XARN7-s3V5ZChSsZJk0VaM2DfNPk-G5tgLoOplKiu2kSmHhHaDnGnDMlX_-cyfNxfjrbbiAcNwpoKA1FOZgTbOiEdCUut66-j2z5962j0NLZ8sPECmnyoySEzh-5ZA7_dYULvHpkFv7KdunA_y5r5NTM44ywQ332Jy-hyToVkkvIXBlr1ea_eIGrKXWoFKhLChHbVEI12PBPmi4Ts2u-ljOL-U2TL0Ri4MWmyFwZtddNv7AkUaw/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+</script>
+<br/><br/>
+</div>
+<form action="../../add.php" id="addsong" method="post">
+<input name="what" type="hidden" value="add_song"/>
+<input name="artist" type="hidden" value="A1"/>
+<input name="artist_id" type="hidden" value="29"/>
+</form>
+<form action="../../add.php" id="corlyr" method="post">
+<input name="what" type="hidden" value="correct_lyrics"/>
+<input name="song_id" type="hidden" value="208"/>
+</form>
+<div class="smt noprint">
+<a class="btn btn-primary" href="#" onclick="submitCorrections()"><span class="glyphicon glyphicon-pencil"></span> Submit Corrections</a>
+</div>
+<div class="smt"></div>
+<div class="noprint" style="padding: 15px 0">
+<span id="cf_text_bottom"></span>
+</div>
+<!-- credits -->
+<div class="smt"><small>Writer(s): Ben Adams, Christian Ingebrigtsen, Mark Read</small>
+<br/>
+</div>
+<!-- song facts -->
+<!-- artist link -->
+<ol class="breadcrumb noprint" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com" itemprop="item"><span itemprop="name">AZLyrics</span></a><meta content="1" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a.html" itemprop="item"><span itemprop="name">A</span></a><meta content="2" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a/a1.html" itemprop="item"><span itemprop="name">A1 Lyrics</span></a><meta content="3" itemprop="position"/></li>
+</ol>
+<!-- album songlists -->
+<div class="panel songlist-panel noprint">
+<div class="songinalbum_title">album: <b>"Here We Come"</b> (1999)</div>
+<div class="listalbum-item"><a href="foreverinlove.html">Forever In Love</a></div>
+<div class="listalbum-item"><a href="bethefirsttobelieve.html">Be The First To Believe</a></div>
+<div class="listalbum-item"><a href="summertimeofourlives.html">Summertime Of Our Lives</a></div>
+<div class="listalbum-item"><a href="readyornot.html">Ready Or Not</a></div>
+<div class="listalbum-item"><a href="everytime.html">Everytime</a></div>
+<div class="listalbum-item"><a href="ifonly.html">If Only</a></div>
+<div class="listalbum-item"><a href="heyyou.html">Hey You</a></div>
+<div class="listalbum-item"><a href="likearose.html">Like A Rose</a></div>
+<div class="listalbum-item"><a href="walkingintherain.html">Walking In The Rain</a></div>
+<div class="listalbum-item"><a href="stillaround.html">Still Around</a></div>
+<div class="listalbum-item"><a href="istillbelieve.html">I Still Believe</a></div>
+<div class="listalbum-item"><a href="heavenbyyourside.html">Heaven By Your Side</a></div>
+</div>
+<!-- album songlists end -->
+<form action="//search.azlyrics.com/search.php" class="search noprint" method="get" role="search">
+<div class="input-group" style="margin-bottom:15px">
+<input class="form-control" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+<div class="noprint visible-xs-block" style="margin-top:5px;margin-bottom:5px">
+<div id="RTK_yc1Z"></div>
+</div>
+</div> <!-- content -->
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+</div>
+</div> <!-- container main-page -->
+<!-- nav bottom -->
+<nav class="navbar navbar-default navbar-bottom">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/add.php" onclick="document.forms['addsong'].submit();return false;">Submit Lyrics</a></li>
+<li><a href="//www.stlyrics.com">Soundtracks</a></li>
+<li><a href="//www.facebook.com/pages/AZLyricscom/154139197951223">Facebook</a></li>
+<li><a href="//www.azlyrics.com/contact.html">Contact Us</a></li>
+</ul>
+</div>
+</nav>
+<!-- bot ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_W2xH"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- footer -->
+<nav class="navbar navbar-footer noprint">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/adv.html">Advertise Here</a></li>
+<li><a href="//www.azlyrics.com/privacy.html">Privacy Policy</a></li>
+<li><a href="//www.azlyrics.com/cookie.html">Cookie Policy</a></li>
+<li><a href="//www.azlyrics.com/copyright.html">DMCA Policy</a></li>
+</ul>
+</div>
+</nav>
+<div class="footer-wrap">
+<div class="container">
+<div class="noprint"><span style="font-weight:bold;line-height:54px;vertical-align:top;">Lyrics licensed by </span><img alt="MusixMatch" height="54" src="//www.azlyrics.com/images/mxm.png" width="184"/></div>
+<small>
+<script type="text/javascript">
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             </script>
+</small>
+</div>
+</div>
+<script>
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "pop";
+cf_no_bit = 0;
+</script>
+<script src="/local/anew.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div class="hidden" id="CssFailCheck" style="height:1px;"></div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="//www.azlyrics.com/local/jquery.min.js"><\/script>')</script>
+<script>
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="//www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="//www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    </script>
+<script src="/local/az.js"></script>
+<script src="/geo.js"></script>
+<script src="https://tracking.musixmatch.com/t1.0/m_js/e_0/sn_0/l_1149898/su_0/rs_0/tr_3vUCAL09_1NPeBAGA_Ky5gotGY7zDLYFrINtU9SwNr-KxPnKN4uSXoQjSZm8MMqIwib_mNiJ9JuzXT4tZsWk80UOLve75icbP_7OGxPoBK5XZTb6_LOteRR8WyXSsWpQ3QckXMksiE1i3KN4Q-xfNOjZlD9LlJbHJOJTZrhOClHsvMq48MNCyaiwqCeBTAEQ0FGIGP7q4Ye8XARN7-s3V5ZChSsZJk0VaM2DfNPk-G5tgLoOplKiu2kSmHhHaDnGnDMlX_-cyfNxfjrbbiAcNwpoKA1FOZgTbOiEdCUut66-j2z5962j0NLZ8sPECmnyoySEzh-5ZA7_dYULvHpkFv7KdunA_y5r5NTM44ywQ332Jy-hyToVkkvIXBlr1ea_eIGrKXWoFKhLChHbVEI12PBPmi4Ts2u-ljOL-U2TL0Ri4MWmyFwZtddNv7AkUaw/" type="text/javascript"></script>
+</body>
+</html>
+, 'https://www.azlyrics.com/lyrics/a1/bethefirsttobelieve.html': <!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="A1 &quot;Be The First To Believe&quot;: JUST ONE ON ONE! THAT'S THE WAY WE DO IT (BABY) BABY, I CAN'T ALWAYS SAY WHAT'S ON MY MIND, YE..." name="description"/>
+<meta content="Be The First To Believe lyrics, A1 Be The First To Believe lyrics, A1 lyrics" name="keywords"/>
+<meta content="noarchive" name="robots"/>
+<meta content="//www.azlyrics.com/az_logo_tr.png" property="og:image"/>
+<title>A1 - Be The First To Believe Lyrics | AZLyrics.com</title>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/local/az.css" rel="stylesheet"/>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script charset="UTF-8" data-domain-script="464b7175-7273-4e0f-8753-e9a483d4a156" data-language="en" src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" type="text/javascript"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<script type="text/javascript">
+ArtistName = "A1";
+SongName = "Be The First To Believe";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+</script>
+</head>
+<body class="az-song-text">
+<nav class="navbar navbar-default navbar-static-top noprint">
+<div class="container">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+<button class="navbar-toggle collapsed" data-target="#search-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-search"></span>
+</button>
+<button class="navbar-toggle collapsed" data-target="#artists-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-th-list"></span>
+</button>
+<a class="navbar-brand" href="//www.azlyrics.com"><img alt="AZLyrics.com" class="pull-left" src="//www.azlyrics.com/az_logo_tr.png" style="max-height:40px; margin-top:-10px;"/></a>
+</div>
+<ul class="collapse navbar-collapse nav navbar-nav" id="artists-collapse">
+<li>
+<div class="btn-group text-center" role="group">
+<a class="btn btn-menu" href="//www.azlyrics.com/a.html">A</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/b.html">B</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/c.html">C</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/d.html">D</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/e.html">E</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/f.html">F</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/g.html">G</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/h.html">H</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/i.html">I</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/j.html">J</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/k.html">K</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/l.html">L</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/m.html">M</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/n.html">N</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/o.html">O</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/p.html">P</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/q.html">Q</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/r.html">R</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/s.html">S</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/t.html">T</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/u.html">U</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/v.html">V</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/w.html">W</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/x.html">X</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/y.html">Y</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/z.html">Z</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/19.html">#</a>
+</div>
+</li>
+</ul>
+<div class="collapse navbar-collapse" id="search-collapse">
+<form action="//search.azlyrics.com/search.php" class="navbar-form navbar-right search" method="get" role="search">
+<div class="input-group">
+<input class="form-control" id="q" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container -->
+</nav>
+<!-- top ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_67Y3"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- main -->
+<div class="container main-page">
+<div class="row">
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+<!-- content -->
+<div class="col-xs-12 col-lg-8 text-center">
+<div class="div-share noprint">
+<div class="addthis_toolbox addthis_default_style">
+<a class="btn btn-xs btn-share addthis_button_facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fbethefirsttobelieve.html&amp;title=A1%20-%20Be%20The%20First%20To%20Believe%20Lyrics%20%7C%20AZLyrics.com&amp;display=page" target="_blank">
+<span class="playblk"><img alt="Share on Facebook" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/facebook.svg" title="Share on Facebook" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fbethefirsttobelieve.html&amp;text=A1%20-%20Be%20The%20First%20To%20Believe%20Lyrics%20%7C%20AZLyrics.com" target="_blank">
+<span class="playblk"><img alt="Share on Twiiter" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/twitter.svg" title="Share on Twiiter" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_email" href="mailto:?subject=A1%20-%20Be%20The%20First%20To%20Believe%20Lyrics%20%7C%20AZLyrics.com&amp;body=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fbethefirsttobelieve.html" target="_blank">
+<span class="playblk"><img alt="Email" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/email.svg" title="Email" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_print" href="javascript:void(window.print());" style="margin-right: 0px !important;">
+<span class="playblk"><img alt="Print" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/print.svg" title="Print" width="25"/></span>
+</a>
+</div>
+</div>
+<div class="div-share"><h1>"Be The First To Believe" lyrics</h1></div>
+<div class="lyricsh">
+<h2><a href="//www.azlyrics.com/a/a1.html"><b>A1 Lyrics</b></a></h2>
+</div>
+<div class="ringtone">
+<span id="cf_text_top"></span>
+</div>
+<b>"Be The First To Believe"</b><br/>
+<br/>
+<div>
+<!-- Usage of azlyrics.com content by any third-party lyrics provider is prohibited by our licensing agreement. Sorry about that. -->
+<i>[INTRO-HOOK]</i><br/>
+<br/>
+<i>[ALL:]</i> JUST ONE ON ONE!<br/>
+THAT'S THE WAY WE DO IT (BABY) <i>[x 2]</i><br/>
+<br/>
+<i>[BEN:]</i> BABY, I CAN'T ALWAYS SAY WHAT'S ON MY MIND, YEAH NEW SENSATIONS<br/>
+<br/>
+<i>[ALL:]</i> GOT ME<br/>
+<br/>
+MARK: BREAKING OUT THE LOVE I FEEL INSIDE<br/>
+YEAH, I'LL TAKE YOU TO A WONDERLAND<br/>
+<br/>
+<i>[BRIDGE]</i><br/>
+<br/>
+<i>[ALL:]</i> YOU HIT ME RIGHT BETWEEN THE EYES<br/>
+I SHOULDA LISTEN TO MA MAMMA DONE TOLD ME<br/>
+YOU SENT ME SOARING TO THE SKIES<br/>
+AIN'T GONNA LISTEN TO MA MAMMA DONE TOLD ME<br/>
+<br/>
+<i>[CHORUS]</i><br/>
+<br/>
+<i>[ALL:]</i> GIRL, THIS PARADISE IS OURS<br/>
+THE PLANET MOON AND STARS<br/>
+BELIEVE IN ME BABY<br/>
+<br/>
+<i>[MARK:]</i> (YOU'VE GOT TO BELIEVE)<br/>
+<br/>
+<i>[ALL:]</i> BELIEVE IN ME BABY<br/>
+<br/>
+<i>[BEN:]</i> BE THE FIRST TO BELIEVE<br/>
+<br/>
+<i>[VERSE]</i><br/>
+<br/>
+<i>[CHRISTIAN:]</i> BABY, ELEVATE OUR LOVE INTO THE SKIES<br/>
+YEAH, COOL VIBRATIONS<br/>
+<br/>
+<i>[ALL:]</i> ROCK ME<br/>
+<br/>
+<i>[PAUL:]</i> FLY ME UP TO HEAVEN IN YOUR EYES<br/>
+YEAH, ITS MAGIC WHEN YOU HYPNOTISE<br/>
+<br/>
+<i>[ALL:]</i> REPEAT BRIDGE<br/>
+YOU HIT ME RIGHT BETWEEN THE EYES!!..<br/>
+<br/>
+<i>[CHORUS]</i><br/>
+<br/>
+<i>[ALL:]</i> GIRL, THIS PARADISE IS OURS<br/>
+THE PLANET MOON AND STARS<br/>
+BELIEVE IN ME BABY<br/>
+<br/>
+<i>[PAUL:]</i> (YEAH, YOU GOT TO BELIEVE)<br/>
+<br/>
+<i>[ALL:]</i> BELIEVE IN ME BABY<br/>
+<br/>
+<i>[CHRISTIAN:]</i> (BE THE FIRST TO BELIEVE)<br/>
+<br/>
+<i>[ALL:]</i> BELIEVE IN ME BABY<br/>
+<br/>
+<i>[MARK:]</i> (YOU'VE GOT TO BELIEVE)<br/>
+<br/>
+<i>[ALL:]</i> BELIEVE IN ME BABY<br/>
+<br/>
+<i>[BEN:]</i> (SAID, BE THE FIRST TO BELIEVE)<br/>
+<br/>
+<i>[MUSICAL BREAK FOR FOUR BARS]</i><br/>
+<br/>
+<i>[ALL:]</i> JUST ONE ON ONE!<br/>
+THAT'S THE WAY WE DO IT (BABY)<br/>
+JUST ONE ON ONE!<br/>
+THAT'S THE WAY WE DO IT <i>[x2]</i><br/>
+<br/>
+<i>[CHORUS]</i><br/>
+<br/>
+<i>[ALL:]</i> GIRL, THIS PARADISE IS OURS<br/>
+THE PLANET MOON AND STARS<br/>
+BELIEVE IN ME BABY<br/>
+JUST ONE ON ONE!.<br/>
+<i>[CHORUS &amp; HOOK SUNG TOGETHER OVERLAPPING]</i><br/>
+<br/>
+<i>[ALL:]</i> BELIEVE IN ME BABY<br/>
+<br/>
+<i>[ALL:]</i> JUST ONE ON ONE, OOOOH<br/>
+JUST ONE ON ONE, OOOOH <i>[x2]</i><br/>
+<br/>
+<i>[ALL]</i>: BELIEVE IN ME BABY
+</div>
+<br/><br/>
+<!-- MxM banner -->
+<div class="noprint" id="azmxmbanner" style="display:none;">
+<script>
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.getElementById('azmxmbanner').style.display='block';
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="//adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_1149877/su_0/rs_0/tr_3vUCAIp7PQ4BY3lDTW0p7onlmTX4EDUqtX-BnaU6rDr449b2A7c86N-6ESXu4DjMJK15cT5jCGVMJN3c2q7ZXxgGIFKzPWiYVHX6Ejah8TPC4G8n55-UACbiixVGvvN7F6vAMbhuLSV5nZmhuO39jRc8US4yX6Ol_f2wPq-zPgQPMbxOZ4KKUQNEcbLPPMSdiZ66SSv1AGkoiJFrWrTNCZAgmcX3ugBEUhI-h3x1cMjbVgmU3cxfZL76R2lJlvhL5bgC0lQj-CPb1CncuMMvxcucwa6swiACgc_1Tq2L9JcMHHdVwDrTO27JsSSZHzS6xzMsmaQKByFLrXKhoB9mGBGWTpTRCAiWy5TIaYOFfFwLijO8jdWL9TkupQgxjCB9aJGeFUy2AjL9XG9mWKJcOO-rj549a3cdn4EYKYMfJotqoDschmMO2WVsmOO8esQpa2L-/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+</script>
+<br/><br/>
+</div>
+<form action="../../add.php" id="addsong" method="post">
+<input name="what" type="hidden" value="add_song"/>
+<input name="artist" type="hidden" value="A1"/>
+<input name="artist_id" type="hidden" value="29"/>
+</form>
+<form action="../../add.php" id="corlyr" method="post">
+<input name="what" type="hidden" value="correct_lyrics"/>
+<input name="song_id" type="hidden" value="209"/>
+</form>
+<div class="smt noprint">
+<a class="btn btn-primary" href="#" onclick="submitCorrections()"><span class="glyphicon glyphicon-pencil"></span> Submit Corrections</a>
+</div>
+<div class="smt"><small>Thanks to parkin for correcting these lyrics.<br/></small>
+</div>
+<div class="noprint" style="padding: 15px 0">
+<span id="cf_text_bottom"></span>
+</div>
+<!-- credits -->
+<div class="smt"><small>Writer(s): Christian Ingebrigtsen, Ben Adams, Mark Read, Paul Marazzi, Peter Cunnah</small>
+<br/>
+</div>
+<!-- song facts -->
+<!-- artist link -->
+<ol class="breadcrumb noprint" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com" itemprop="item"><span itemprop="name">AZLyrics</span></a><meta content="1" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a.html" itemprop="item"><span itemprop="name">A</span></a><meta content="2" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a/a1.html" itemprop="item"><span itemprop="name">A1 Lyrics</span></a><meta content="3" itemprop="position"/></li>
+</ol>
+<!-- album songlists -->
+<div class="panel songlist-panel noprint">
+<div class="songinalbum_title">album: <b>"Here We Come"</b> (1999)</div>
+<div class="listalbum-item"><a href="foreverinlove.html">Forever In Love</a></div>
+<div class="listalbum-item"><a href="bethefirsttobelieve.html">Be The First To Believe</a></div>
+<div class="listalbum-item"><a href="summertimeofourlives.html">Summertime Of Our Lives</a></div>
+<div class="listalbum-item"><a href="readyornot.html">Ready Or Not</a></div>
+<div class="listalbum-item"><a href="everytime.html">Everytime</a></div>
+<div class="listalbum-item"><a href="ifonly.html">If Only</a></div>
+<div class="listalbum-item"><a href="heyyou.html">Hey You</a></div>
+<div class="listalbum-item"><a href="likearose.html">Like A Rose</a></div>
+<div class="listalbum-item"><a href="walkingintherain.html">Walking In The Rain</a></div>
+<div class="listalbum-item"><a href="stillaround.html">Still Around</a></div>
+<div class="listalbum-item"><a href="istillbelieve.html">I Still Believe</a></div>
+<div class="listalbum-item"><a href="heavenbyyourside.html">Heaven By Your Side</a></div>
+</div>
+<!-- album songlists end -->
+<form action="//search.azlyrics.com/search.php" class="search noprint" method="get" role="search">
+<div class="input-group" style="margin-bottom:15px">
+<input class="form-control" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+<div class="noprint visible-xs-block" style="margin-top:5px;margin-bottom:5px">
+<div id="RTK_yc1Z"></div>
+</div>
+</div> <!-- content -->
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+</div>
+</div> <!-- container main-page -->
+<!-- nav bottom -->
+<nav class="navbar navbar-default navbar-bottom">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/add.php" onclick="document.forms['addsong'].submit();return false;">Submit Lyrics</a></li>
+<li><a href="//www.stlyrics.com">Soundtracks</a></li>
+<li><a href="//www.facebook.com/pages/AZLyricscom/154139197951223">Facebook</a></li>
+<li><a href="//www.azlyrics.com/contact.html">Contact Us</a></li>
+</ul>
+</div>
+</nav>
+<!-- bot ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_W2xH"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- footer -->
+<nav class="navbar navbar-footer noprint">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/adv.html">Advertise Here</a></li>
+<li><a href="//www.azlyrics.com/privacy.html">Privacy Policy</a></li>
+<li><a href="//www.azlyrics.com/cookie.html">Cookie Policy</a></li>
+<li><a href="//www.azlyrics.com/copyright.html">DMCA Policy</a></li>
+</ul>
+</div>
+</nav>
+<div class="footer-wrap">
+<div class="container">
+<div class="noprint"><span style="font-weight:bold;line-height:54px;vertical-align:top;">Lyrics licensed by </span><img alt="MusixMatch" height="54" src="//www.azlyrics.com/images/mxm.png" width="184"/></div>
+<small>
+<script type="text/javascript">
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             </script>
+</small>
+</div>
+</div>
+<script>
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "pop";
+cf_no_bit = 0;
+</script>
+<script src="/local/anew.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div class="hidden" id="CssFailCheck" style="height:1px;"></div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="//www.azlyrics.com/local/jquery.min.js"><\/script>')</script>
+<script>
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="//www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="//www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    </script>
+<script src="/local/az.js"></script>
+<script src="/geo.js"></script>
+<script src="https://tracking.musixmatch.com/t1.0/m_js/e_0/sn_0/l_1149877/su_0/rs_0/tr_3vUCAIp7PQ4BY3lDTW0p7onlmTX4EDUqtX-BnaU6rDr449b2A7c86N-6ESXu4DjMJK15cT5jCGVMJN3c2q7ZXxgGIFKzPWiYVHX6Ejah8TPC4G8n55-UACbiixVGvvN7F6vAMbhuLSV5nZmhuO39jRc8US4yX6Ol_f2wPq-zPgQPMbxOZ4KKUQNEcbLPPMSdiZ66SSv1AGkoiJFrWrTNCZAgmcX3ugBEUhI-h3x1cMjbVgmU3cxfZL76R2lJlvhL5bgC0lQj-CPb1CncuMMvxcucwa6swiACgc_1Tq2L9JcMHHdVwDrTO27JsSSZHzS6xzMsmaQKByFLrXKhoB9mGBGWTpTRCAiWy5TIaYOFfFwLijO8jdWL9TkupQgxjCB9aJGeFUy2AjL9XG9mWKJcOO-rj549a3cdn4EYKYMfJotqoDschmMO2WVsmOO8esQpa2L-/" type="text/javascript"></script>
+</body>
+</html>
+, 'https://www.azlyrics.com/lyrics/a1/summertimeofourlives.html': <!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="A1 &quot;Summertime Of Our Lives&quot;: SUMMERTIME OF OUR LIVES SUMMERTIME OF OUR LIVES, OUR LIVES HEY GIRL THE FEELING IS RIGHT YOU'V..." name="description"/>
+<meta content="Summertime Of Our Lives lyrics, A1 Summertime Of Our Lives lyrics, A1 lyrics" name="keywords"/>
+<meta content="noarchive" name="robots"/>
+<meta content="//www.azlyrics.com/az_logo_tr.png" property="og:image"/>
+<title>A1 - Summertime Of Our Lives Lyrics | AZLyrics.com</title>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/local/az.css" rel="stylesheet"/>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script charset="UTF-8" data-domain-script="464b7175-7273-4e0f-8753-e9a483d4a156" data-language="en" src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" type="text/javascript"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<script type="text/javascript">
+ArtistName = "A1";
+SongName = "Summertime Of Our Lives";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+</script>
+</head>
+<body class="az-song-text">
+<nav class="navbar navbar-default navbar-static-top noprint">
+<div class="container">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+<button class="navbar-toggle collapsed" data-target="#search-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-search"></span>
+</button>
+<button class="navbar-toggle collapsed" data-target="#artists-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-th-list"></span>
+</button>
+<a class="navbar-brand" href="//www.azlyrics.com"><img alt="AZLyrics.com" class="pull-left" src="//www.azlyrics.com/az_logo_tr.png" style="max-height:40px; margin-top:-10px;"/></a>
+</div>
+<ul class="collapse navbar-collapse nav navbar-nav" id="artists-collapse">
+<li>
+<div class="btn-group text-center" role="group">
+<a class="btn btn-menu" href="//www.azlyrics.com/a.html">A</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/b.html">B</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/c.html">C</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/d.html">D</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/e.html">E</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/f.html">F</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/g.html">G</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/h.html">H</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/i.html">I</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/j.html">J</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/k.html">K</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/l.html">L</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/m.html">M</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/n.html">N</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/o.html">O</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/p.html">P</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/q.html">Q</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/r.html">R</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/s.html">S</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/t.html">T</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/u.html">U</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/v.html">V</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/w.html">W</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/x.html">X</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/y.html">Y</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/z.html">Z</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/19.html">#</a>
+</div>
+</li>
+</ul>
+<div class="collapse navbar-collapse" id="search-collapse">
+<form action="//search.azlyrics.com/search.php" class="navbar-form navbar-right search" method="get" role="search">
+<div class="input-group">
+<input class="form-control" id="q" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container -->
+</nav>
+<!-- top ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_67Y3"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- main -->
+<div class="container main-page">
+<div class="row">
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+<!-- content -->
+<div class="col-xs-12 col-lg-8 text-center">
+<div class="div-share noprint">
+<div class="addthis_toolbox addthis_default_style">
+<a class="btn btn-xs btn-share addthis_button_facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fsummertimeofourlives.html&amp;title=A1%20-%20Summertime%20Of%20Our%20Lives%20Lyrics%20%7C%20AZLyrics.com&amp;display=page" target="_blank">
+<span class="playblk"><img alt="Share on Facebook" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/facebook.svg" title="Share on Facebook" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fsummertimeofourlives.html&amp;text=A1%20-%20Summertime%20Of%20Our%20Lives%20Lyrics%20%7C%20AZLyrics.com" target="_blank">
+<span class="playblk"><img alt="Share on Twiiter" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/twitter.svg" title="Share on Twiiter" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_email" href="mailto:?subject=A1%20-%20Summertime%20Of%20Our%20Lives%20Lyrics%20%7C%20AZLyrics.com&amp;body=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fsummertimeofourlives.html" target="_blank">
+<span class="playblk"><img alt="Email" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/email.svg" title="Email" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_print" href="javascript:void(window.print());" style="margin-right: 0px !important;">
+<span class="playblk"><img alt="Print" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/print.svg" title="Print" width="25"/></span>
+</a>
+</div>
+</div>
+<div class="div-share"><h1>"Summertime Of Our Lives" lyrics</h1></div>
+<div class="lyricsh">
+<h2><a href="//www.azlyrics.com/a/a1.html"><b>A1 Lyrics</b></a></h2>
+</div>
+<div class="ringtone">
+<span id="cf_text_top"></span>
+</div>
+<b>"Summertime Of Our Lives"</b><br/>
+<br/>
+<div>
+<!-- Usage of azlyrics.com content by any third-party lyrics provider is prohibited by our licensing agreement. Sorry about that. -->
+<i>[ALL:]</i> SUMMERTIME OF OUR LIVES<br/>
+SUMMERTIME OF OUR LIVES, OUR LIVES<br/>
+<br/>
+<i>[BEN:]</i> HEY GIRL THE FEELING IS RIGHT<br/>
+YOU'VE GOTTA GET OUT IN THE SUNLIGHT<br/>
+<br/>
+<i>[ALL:]</i> (SUNLIGHT)<br/>
+<br/>
+<i>[MARK:]</i> HOT SAND HOLDING YOUR HAND<br/>
+YOU KEEP ME JAMMIN' IN THE MORNING<br/>
+'TIL THE MOONLIGHT<br/>
+<br/>
+<i>[ALL:]</i> WE'LL HAVE THE TIME OF OUR LIVES<br/>
+IN OUR WONDERWORLD<br/>
+TIME OF OUR LIVES<br/>
+THERE'S A BOY FOR EVERY GIRL COME ONE<br/>
+SUMMERTIME OF OUR LIVES OUR LIVES<br/>
+SUMMERTIME OF OUR LIVES OUR LIVES<br/>
+<br/>
+<i>[CHRISTIAN:]</i> COOL BREEZE KISSIN' THE SEA<br/>
+I'VE GOT A SUNBEAM SHINING ON ME<br/>
+<br/>
+<i>[ALL:]</i> (ON ME)<br/>
+<br/>
+<i>[PAUL:]</i> BLUE SKIES SEA IN YOUR EYES<br/>
+LET THE GROOVE MOVE MY PEOPLE<br/>
+ALL AROUND ME<br/>
+<br/>
+<i>[ALL:]</i> WE'LL HAVE THE TIME OF OUR LIVES<br/>
+IN OUR WONDERWORLD<br/>
+TIME OF OUR LIVES<br/>
+THERE'S A BOY FOR EVERY GIRL COME ON<br/>
+SUMMERTIME OF OUR LIVES OUR LIVES<br/>
+SUMMERTIME OF OUR LIVES OUR LIVES<br/>
+<br/>
+SUMMERTIME SUMMERTIME<br/>
+SUGAR CANDY CHERRY WORLD<br/>
+SUMMERTIME SUMMERTIME<br/>
+THERE'S A BOY FOR EVERY GIRL<br/>
+SUMMERTIME SUMMERTIME<br/>
+SUGAR CANDY CHERRY WORLD<br/>
+SUMMERTIME SUMMERTIME<br/>
+<br/>
+SUMMERTIME SUMMERTIME<i>[ X 2]</i><br/>
+SUMMERTIME SUMMERTIME<i>[ X 2]</i><br/>
+<br/>
+WE'LL HAVE THE TIME OF OUR LIVES<br/>
+IN OUR WONDERWORLD<br/>
+TIME OF OUR LIVES COME ONE<br/>
+SUMMERTIME OF OUR LIVES OUR LIVES (COME ON)<br/>
+SUMMERTIME OF OUR LIVES OUR LIVES (COME ON)<br/>
+<br/>
+BABY GET READY GET DOWN<br/>
+ARE YOU UP FOR IT GET DOWN WITH IT<br/>
+BABY GET READY GET DOWN<br/>
+ARE YOU UP FOR IT GET DOWN WITH IT<br/>
+(COME ON)<br/>
+BABY GET READY GET DOWN<br/>
+ARE YOU UP FOR IT GET DOWN WITH IT<br/>
+BABY GET READY GET DOWN DOWN DOWN<br/>
+(COME ON)<br/>
+SUMMERTIME OF OUR LIVES OUR LIVES<br/>
+SUMMERTIME OF OUR LIVES OUR LIVES<br/>
+(COME ON)
+</div>
+<br/><br/>
+<!-- MxM banner -->
+<div class="noprint" id="azmxmbanner" style="display:none;">
+<script>
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.getElementById('azmxmbanner').style.display='block';
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="//adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_12450470/su_0/rs_0/tr_3vUCAPlLlH55fXkxSWZs8yR-UAVMgSLKJLGLBYZp3e2VcOVORuLLUYYUX-OW0QFS2377zUz3wVSz_MRXMf7pl968e926gQZArJnw-1yev0Kmof72RXQisgGb0enFvns42qA3FN1p6Ta1jNPx37Ds2DB5_1603bLlNgI-9UVf0kQwzvlZq9XQymPry-Q4585jZIzvHiA-R1AYQfEv7rVBAZmNWPCIq4esy14S0PMZsnWRqn7nFWvCv77U3QNmSnAQO5HMfxuwJ0a1swt54xCUH3PCXo7ffA-MtQf0_gRPO2K5Pq2TY7s7AlVBPc3m1_xH2YRSAkc7ocRHhqaJviALU-Oz2Z72F_VoMdf6hpD-T-HvtQnDHDokMUt3FnrMNffKiCn1R-SeQzi25gwO2nohg3yDfBWNlD-s60HIi387aiWPYsoxsKF4hlQ_TEGbrrOHGmiPoNY/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+</script>
+<br/><br/>
+</div>
+<form action="../../add.php" id="addsong" method="post">
+<input name="what" type="hidden" value="add_song"/>
+<input name="artist" type="hidden" value="A1"/>
+<input name="artist_id" type="hidden" value="29"/>
+</form>
+<form action="../../add.php" id="corlyr" method="post">
+<input name="what" type="hidden" value="correct_lyrics"/>
+<input name="song_id" type="hidden" value="210"/>
+</form>
+<div class="smt noprint">
+<a class="btn btn-primary" href="#" onclick="submitCorrections()"><span class="glyphicon glyphicon-pencil"></span> Submit Corrections</a>
+</div>
+<div class="smt"></div>
+<div class="noprint" style="padding: 15px 0">
+<span id="cf_text_bottom"></span>
+</div>
+<!-- credits -->
+<div class="smt"><small>Writer(s): Adams Benjamin James, Marazzi Paul Thomas Leo, Read Mark Daniel, Ingebrigtsen Christian, Cunnah Peter</small>
+<br/>
+</div>
+<!-- song facts -->
+<!-- artist link -->
+<ol class="breadcrumb noprint" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com" itemprop="item"><span itemprop="name">AZLyrics</span></a><meta content="1" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a.html" itemprop="item"><span itemprop="name">A</span></a><meta content="2" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a/a1.html" itemprop="item"><span itemprop="name">A1 Lyrics</span></a><meta content="3" itemprop="position"/></li>
+</ol>
+<!-- album songlists -->
+<div class="panel songlist-panel noprint">
+<div class="songinalbum_title">album: <b>"Here We Come"</b> (1999)</div>
+<div class="listalbum-item"><a href="foreverinlove.html">Forever In Love</a></div>
+<div class="listalbum-item"><a href="bethefirsttobelieve.html">Be The First To Believe</a></div>
+<div class="listalbum-item"><a href="summertimeofourlives.html">Summertime Of Our Lives</a></div>
+<div class="listalbum-item"><a href="readyornot.html">Ready Or Not</a></div>
+<div class="listalbum-item"><a href="everytime.html">Everytime</a></div>
+<div class="listalbum-item"><a href="ifonly.html">If Only</a></div>
+<div class="listalbum-item"><a href="heyyou.html">Hey You</a></div>
+<div class="listalbum-item"><a href="likearose.html">Like A Rose</a></div>
+<div class="listalbum-item"><a href="walkingintherain.html">Walking In The Rain</a></div>
+<div class="listalbum-item"><a href="stillaround.html">Still Around</a></div>
+<div class="listalbum-item"><a href="istillbelieve.html">I Still Believe</a></div>
+<div class="listalbum-item"><a href="heavenbyyourside.html">Heaven By Your Side</a></div>
+</div>
+<!-- album songlists end -->
+<form action="//search.azlyrics.com/search.php" class="search noprint" method="get" role="search">
+<div class="input-group" style="margin-bottom:15px">
+<input class="form-control" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+<div class="noprint visible-xs-block" style="margin-top:5px;margin-bottom:5px">
+<div id="RTK_yc1Z"></div>
+</div>
+</div> <!-- content -->
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+</div>
+</div> <!-- container main-page -->
+<!-- nav bottom -->
+<nav class="navbar navbar-default navbar-bottom">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/add.php" onclick="document.forms['addsong'].submit();return false;">Submit Lyrics</a></li>
+<li><a href="//www.stlyrics.com">Soundtracks</a></li>
+<li><a href="//www.facebook.com/pages/AZLyricscom/154139197951223">Facebook</a></li>
+<li><a href="//www.azlyrics.com/contact.html">Contact Us</a></li>
+</ul>
+</div>
+</nav>
+<!-- bot ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_W2xH"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- footer -->
+<nav class="navbar navbar-footer noprint">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/adv.html">Advertise Here</a></li>
+<li><a href="//www.azlyrics.com/privacy.html">Privacy Policy</a></li>
+<li><a href="//www.azlyrics.com/cookie.html">Cookie Policy</a></li>
+<li><a href="//www.azlyrics.com/copyright.html">DMCA Policy</a></li>
+</ul>
+</div>
+</nav>
+<div class="footer-wrap">
+<div class="container">
+<div class="noprint"><span style="font-weight:bold;line-height:54px;vertical-align:top;">Lyrics licensed by </span><img alt="MusixMatch" height="54" src="//www.azlyrics.com/images/mxm.png" width="184"/></div>
+<small>
+<script type="text/javascript">
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             </script>
+</small>
+</div>
+</div>
+<script>
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "pop";
+cf_no_bit = 0;
+</script>
+<script src="/local/anew.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div class="hidden" id="CssFailCheck" style="height:1px;"></div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="//www.azlyrics.com/local/jquery.min.js"><\/script>')</script>
+<script>
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="//www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="//www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    </script>
+<script src="/local/az.js"></script>
+<script src="/geo.js"></script>
+<script src="https://tracking.musixmatch.com/t1.0/m_js/e_0/sn_0/l_12450470/su_0/rs_0/tr_3vUCAPlLlH55fXkxSWZs8yR-UAVMgSLKJLGLBYZp3e2VcOVORuLLUYYUX-OW0QFS2377zUz3wVSz_MRXMf7pl968e926gQZArJnw-1yev0Kmof72RXQisgGb0enFvns42qA3FN1p6Ta1jNPx37Ds2DB5_1603bLlNgI-9UVf0kQwzvlZq9XQymPry-Q4585jZIzvHiA-R1AYQfEv7rVBAZmNWPCIq4esy14S0PMZsnWRqn7nFWvCv77U3QNmSnAQO5HMfxuwJ0a1swt54xCUH3PCXo7ffA-MtQf0_gRPO2K5Pq2TY7s7AlVBPc3m1_xH2YRSAkc7ocRHhqaJviALU-Oz2Z72F_VoMdf6hpD-T-HvtQnDHDokMUt3FnrMNffKiCn1R-SeQzi25gwO2nohg3yDfBWNlD-s60HIi387aiWPYsoxsKF4hlQ_TEGbrrOHGmiPoNY/" type="text/javascript"></script>
+</body>
+</html>
+, 'https://www.azlyrics.com/lyrics/a1/readyornot.html': <!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="A1 &quot;Ready Or Not&quot;: COULD YOU LOVE A BOY LIKE ME TONITE, COME ON BABY WON'T YOU TAKE A BITE COULD YOU LOVE A BOY LIK..." name="description"/>
+<meta content="Ready Or Not lyrics, A1 Ready Or Not lyrics, A1 lyrics" name="keywords"/>
+<meta content="noarchive" name="robots"/>
+<meta content="//www.azlyrics.com/az_logo_tr.png" property="og:image"/>
+<title>A1 - Ready Or Not Lyrics | AZLyrics.com</title>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/local/az.css" rel="stylesheet"/>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script charset="UTF-8" data-domain-script="464b7175-7273-4e0f-8753-e9a483d4a156" data-language="en" src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" type="text/javascript"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<script type="text/javascript">
+ArtistName = "A1";
+SongName = "Ready Or Not";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+</script>
+</head>
+<body class="az-song-text">
+<nav class="navbar navbar-default navbar-static-top noprint">
+<div class="container">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+<button class="navbar-toggle collapsed" data-target="#search-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-search"></span>
+</button>
+<button class="navbar-toggle collapsed" data-target="#artists-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-th-list"></span>
+</button>
+<a class="navbar-brand" href="//www.azlyrics.com"><img alt="AZLyrics.com" class="pull-left" src="//www.azlyrics.com/az_logo_tr.png" style="max-height:40px; margin-top:-10px;"/></a>
+</div>
+<ul class="collapse navbar-collapse nav navbar-nav" id="artists-collapse">
+<li>
+<div class="btn-group text-center" role="group">
+<a class="btn btn-menu" href="//www.azlyrics.com/a.html">A</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/b.html">B</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/c.html">C</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/d.html">D</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/e.html">E</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/f.html">F</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/g.html">G</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/h.html">H</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/i.html">I</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/j.html">J</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/k.html">K</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/l.html">L</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/m.html">M</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/n.html">N</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/o.html">O</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/p.html">P</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/q.html">Q</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/r.html">R</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/s.html">S</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/t.html">T</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/u.html">U</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/v.html">V</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/w.html">W</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/x.html">X</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/y.html">Y</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/z.html">Z</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/19.html">#</a>
+</div>
+</li>
+</ul>
+<div class="collapse navbar-collapse" id="search-collapse">
+<form action="//search.azlyrics.com/search.php" class="navbar-form navbar-right search" method="get" role="search">
+<div class="input-group">
+<input class="form-control" id="q" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container -->
+</nav>
+<!-- top ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_67Y3"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- main -->
+<div class="container main-page">
+<div class="row">
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+<!-- content -->
+<div class="col-xs-12 col-lg-8 text-center">
+<div class="div-share noprint">
+<div class="addthis_toolbox addthis_default_style">
+<a class="btn btn-xs btn-share addthis_button_facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Freadyornot.html&amp;title=A1%20-%20Ready%20Or%20Not%20Lyrics%20%7C%20AZLyrics.com&amp;display=page" target="_blank">
+<span class="playblk"><img alt="Share on Facebook" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/facebook.svg" title="Share on Facebook" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Freadyornot.html&amp;text=A1%20-%20Ready%20Or%20Not%20Lyrics%20%7C%20AZLyrics.com" target="_blank">
+<span class="playblk"><img alt="Share on Twiiter" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/twitter.svg" title="Share on Twiiter" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_email" href="mailto:?subject=A1%20-%20Ready%20Or%20Not%20Lyrics%20%7C%20AZLyrics.com&amp;body=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Freadyornot.html" target="_blank">
+<span class="playblk"><img alt="Email" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/email.svg" title="Email" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_print" href="javascript:void(window.print());" style="margin-right: 0px !important;">
+<span class="playblk"><img alt="Print" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/print.svg" title="Print" width="25"/></span>
+</a>
+</div>
+</div>
+<div class="div-share"><h1>"Ready Or Not" lyrics</h1></div>
+<div class="lyricsh">
+<h2><a href="//www.azlyrics.com/a/a1.html"><b>A1 Lyrics</b></a></h2>
+</div>
+<div class="ringtone">
+<span id="cf_text_top"></span>
+</div>
+<b>"Ready Or Not"</b><br/>
+<br/>
+<div>
+<!-- Usage of azlyrics.com content by any third-party lyrics provider is prohibited by our licensing agreement. Sorry about that. -->
+<i>[CHRISTIAN:]</i> COULD YOU LOVE A BOY<br/>
+LIKE ME TONITE,<br/>
+COME ON BABY WON'T YOU<br/>
+TAKE A BITE<br/>
+COULD YOU LOVE A BOY LIKE ME TONITE<br/>
+OH YEAH!<br/>
+<br/>
+<i>[BEN:]</i> THERE'S MAGIC WITHIN YOU,<br/>
+THERE'S MAGIC IN EVERYTHING YOU DO,<br/>
+MAGIC ME TO THE PLACE WHERE<br/>
+DREAMS COME TRUE.<br/>
+<br/>
+<i>[CHRISTIAN:]</i> SOMETIMES I GO CRAZY<br/>
+I GET OFF ON THE CRAZY THINGS YOU DO,<br/>
+I'M JEALOUS OF EVERY GUY THAT<br/>
+LOOKS AT YOU<br/>
+<br/>
+<i>[MARK:]</i> SO TELL ME,<br/>
+COULD YOU LOVE A BOY LIKE ME LIKE ME<br/>
+TELL ME COULD YOU LOVE A BOY LIKE ME.<br/>
+<br/>
+<i>[BEN:]</i> BECAUSE I NEED YOU,<br/>
+YOU'RE MY HEART AND SOUL.<br/>
+AND I'M GONNA LET YOU KNOW<br/>
+AIN'T GONNA LET YOU GO.<br/>
+<br/>
+<i>[ALL:]</i> READY OR NOT, HERE I COME, <br/>
+YOU CAN'T HIDE FROM ME, HIDE AND SEEK.<br/>
+RUN AWAY NOW, OR STAY NOW.<br/>
+COS I'LL KEEP SEARCHING<br/>
+I'LL KEEP SEARCHING FOR LOVE.<br/>
+<br/>
+<i>[CHRISTAN:]</i> COULD YOU LOVE A BOY LIKE ME TONITE,<br/>
+COME ON BABY WON'T YOU TAKE A BITE,<br/>
+<br/>
+<i>[PAUL:]</i> THE GAME THAT YOU'RE PLAYING<br/>
+WHY DO YOU TEASE ME LIKE YOU DO<br/>
+YOU GOTTA LET ME DOWN<br/>
+OR SEE IT THROUGH.<br/>
+<br/>
+<i>[MARK:]</i> YOU'RE STRAIGHT FROM A MOVIE,<br/>
+BUT BABY I'M NOT FROM HOLLYWOOD.<br/>
+BY STEALING YOUR HEART<br/>
+I'LL BE YOUR ROBIN HOOD.<br/>
+<br/>
+<i>[CHRISTIAN:]</i> TELL ME, COULD YOU LOVE A BOY LIKE ME LIKE ME<br/>
+TELL ME COULD YOU LOVE A BOY LIKE ME.<br/>
+<br/>
+<i>[CHRISTIAN:]</i> BECAUSE I NEED YOU,<br/>
+YOU'RE MY HEART AND SOUL.<br/>
+AND I'M GONNA LET YOU KNOW<br/>
+<br/>
+<i>[MARK:]</i> AIN'T GONNA LET YOU GO.<br/>
+<i>[ALL:]</i> READY OR NOT, HERE I COME,<br/>
+YOU CAN'T HIDE FROM ME, HIDE AND SEEK.<br/>
+RUN AWAY NOW, OR STAY NOW.<br/>
+COS I'LL KEEP SEARCHING<br/>
+I'LL KEEP SEARCHING BABY<br/>
+<br/>
+<i>[ALL:]</i> READY OR NOT, HERE I COME,<br/>
+YOU CAN'T HIDE FROM ME, HIDE AND SEEK.<br/>
+RUN AWAY NOW, OR STAY NOW.<br/>
+COS I'LL KEEP SEARCHING<br/>
+I'LL KEEP SEARCHING FOR LOVE.<br/>
+<br/>
+<i>[ALL:]</i> BABY - YOU CAN'T HIDE THE LOVE INSIDE<br/>
+SEARCHING FOR LOVE<br/>
+BABY - YOU CAN'T HIDE THE LOVE INSIDE<br/>
+<br/>
+<i>[MARK:]</i> COULD YOU LOVE A BOY LIKE ME, LIKE ME<br/>
+TELL ME COULD YOU LOVE A BOY LIKE ME.<br/>
+<br/>
+<i>[BEN:]</i> BECAUSE I NEED YOU,<br/>
+YOU'RE MY HEART AND SOUL<br/>
+AND I'M GONNA LET YOU KNOW<br/>
+<br/>
+<i>[PAUL:]</i> I'LL NEVER LET YOU GO! OH NO!<br/>
+<br/>
+<i>[ALL:]</i> READY OR NOT, HERE I COME,<br/>
+YOU CAN'T HIDE FROM ME, HIDE AND SEEK.<br/>
+RUN AWAY NOW, OR STAY NOW.<br/>
+COS I'LL KEEP SEARCHING<br/>
+I'LL KEEP SEARCHING BABY<br/>
+<br/>
+<i>[ALL:]</i> READY OR NOT, HERE I COME,<br/>
+YOU CAN'T HIDE FROM ME, HIDE AND SEEK.<br/>
+RUN AWAY NOW, OR STAY NOW.<br/>
+COS I'LL KEEP SEARCHING<br/>
+I'LL KEEP SEARCHING FOR LOVE.<br/>
+<br/>
+<i>[CHRISTIAN:]</i> COULD YOU LOVE A BOY<br/>
+LIKE ME TONITE,<br/>
+COME ON BABY WON'T YOU<br/>
+TAKE A BITE<br/>
+COULD YOU LOVE A BOY LIKE ME TONITE<br/>
+OH YEAH
+</div>
+<br/><br/>
+<!-- MxM banner -->
+<div class="noprint" id="azmxmbanner" style="display:none;">
+<script>
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.getElementById('azmxmbanner').style.display='block';
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="//adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_17350123/su_0/rs_0/tr_3vUCAKpZrUbi_WLU8ehz-iCR1pJ26ObS-tRAqNtyA7y8qhmPSRW5sqtIB5AbCK8KJjhiVDGDcu7hqpkjYxDtJG-XZ1GTasJzIu0imaDoTYpS3HD9sIdXOfSHDY4hV85eCf2ad1fFpGMigV-8Ml5HiKjZ_jX4tgrztvGzBmiGMGdKZDxBNXyC3-KWLBhcECBojvSanP4TZjRFe2vu82onBT0mJbyb42TeESfQqn28R0HZwERuCpvIxynY8oAZFXp40DaA4NLnubrUHI5ufVngvc4EEWDG_-4LufhdCVTR7SfVc22jkbAp4mC9_9sSR_6rqvp2g_IwGuUAdmQqBmtk3B3l9DVPC5NurTTJEND6CH9BVFk514cD_1SE76F0v7jbvLQ-R_QwkuiXXTkq6kecB3yd7WHSQ1Y2KhhemK0zIFQ24BLeXLx38h1hjT0/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+</script>
+<br/><br/>
+</div>
+<form action="../../add.php" id="addsong" method="post">
+<input name="what" type="hidden" value="add_song"/>
+<input name="artist" type="hidden" value="A1"/>
+<input name="artist_id" type="hidden" value="29"/>
+</form>
+<form action="../../add.php" id="corlyr" method="post">
+<input name="what" type="hidden" value="correct_lyrics"/>
+<input name="song_id" type="hidden" value="211"/>
+</form>
+<div class="smt noprint">
+<a class="btn btn-primary" href="#" onclick="submitCorrections()"><span class="glyphicon glyphicon-pencil"></span> Submit Corrections</a>
+</div>
+<div class="smt"></div>
+<div class="noprint" style="padding: 15px 0">
+<span id="cf_text_bottom"></span>
+</div>
+<!-- credits -->
+<div class="smt"><small>Writer(s): Christian Ingebrigtsen, Ben Adams, Mark Read, Paul Marazzi, Peter Cunnah</small>
+<br/>
+</div>
+<!-- song facts -->
+<!-- artist link -->
+<ol class="breadcrumb noprint" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com" itemprop="item"><span itemprop="name">AZLyrics</span></a><meta content="1" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a.html" itemprop="item"><span itemprop="name">A</span></a><meta content="2" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a/a1.html" itemprop="item"><span itemprop="name">A1 Lyrics</span></a><meta content="3" itemprop="position"/></li>
+</ol>
+<!-- album songlists -->
+<div class="panel songlist-panel noprint">
+<div class="songinalbum_title">album: <b>"Here We Come"</b> (1999)</div>
+<div class="listalbum-item"><a href="foreverinlove.html">Forever In Love</a></div>
+<div class="listalbum-item"><a href="bethefirsttobelieve.html">Be The First To Believe</a></div>
+<div class="listalbum-item"><a href="summertimeofourlives.html">Summertime Of Our Lives</a></div>
+<div class="listalbum-item"><a href="readyornot.html">Ready Or Not</a></div>
+<div class="listalbum-item"><a href="everytime.html">Everytime</a></div>
+<div class="listalbum-item"><a href="ifonly.html">If Only</a></div>
+<div class="listalbum-item"><a href="heyyou.html">Hey You</a></div>
+<div class="listalbum-item"><a href="likearose.html">Like A Rose</a></div>
+<div class="listalbum-item"><a href="walkingintherain.html">Walking In The Rain</a></div>
+<div class="listalbum-item"><a href="stillaround.html">Still Around</a></div>
+<div class="listalbum-item"><a href="istillbelieve.html">I Still Believe</a></div>
+<div class="listalbum-item"><a href="heavenbyyourside.html">Heaven By Your Side</a></div>
+</div>
+<!-- album songlists end -->
+<form action="//search.azlyrics.com/search.php" class="search noprint" method="get" role="search">
+<div class="input-group" style="margin-bottom:15px">
+<input class="form-control" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+<div class="noprint visible-xs-block" style="margin-top:5px;margin-bottom:5px">
+<div id="RTK_yc1Z"></div>
+</div>
+</div> <!-- content -->
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+</div>
+</div> <!-- container main-page -->
+<!-- nav bottom -->
+<nav class="navbar navbar-default navbar-bottom">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/add.php" onclick="document.forms['addsong'].submit();return false;">Submit Lyrics</a></li>
+<li><a href="//www.stlyrics.com">Soundtracks</a></li>
+<li><a href="//www.facebook.com/pages/AZLyricscom/154139197951223">Facebook</a></li>
+<li><a href="//www.azlyrics.com/contact.html">Contact Us</a></li>
+</ul>
+</div>
+</nav>
+<!-- bot ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_W2xH"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- footer -->
+<nav class="navbar navbar-footer noprint">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/adv.html">Advertise Here</a></li>
+<li><a href="//www.azlyrics.com/privacy.html">Privacy Policy</a></li>
+<li><a href="//www.azlyrics.com/cookie.html">Cookie Policy</a></li>
+<li><a href="//www.azlyrics.com/copyright.html">DMCA Policy</a></li>
+</ul>
+</div>
+</nav>
+<div class="footer-wrap">
+<div class="container">
+<div class="noprint"><span style="font-weight:bold;line-height:54px;vertical-align:top;">Lyrics licensed by </span><img alt="MusixMatch" height="54" src="//www.azlyrics.com/images/mxm.png" width="184"/></div>
+<small>
+<script type="text/javascript">
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             </script>
+</small>
+</div>
+</div>
+<script>
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "pop";
+cf_no_bit = 0;
+</script>
+<script src="/local/anew.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div class="hidden" id="CssFailCheck" style="height:1px;"></div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="//www.azlyrics.com/local/jquery.min.js"><\/script>')</script>
+<script>
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="//www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="//www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    </script>
+<script src="/local/az.js"></script>
+<script src="/geo.js"></script>
+<script src="https://tracking.musixmatch.com/t1.0/m_js/e_0/sn_0/l_17350123/su_0/rs_0/tr_3vUCAKpZrUbi_WLU8ehz-iCR1pJ26ObS-tRAqNtyA7y8qhmPSRW5sqtIB5AbCK8KJjhiVDGDcu7hqpkjYxDtJG-XZ1GTasJzIu0imaDoTYpS3HD9sIdXOfSHDY4hV85eCf2ad1fFpGMigV-8Ml5HiKjZ_jX4tgrztvGzBmiGMGdKZDxBNXyC3-KWLBhcECBojvSanP4TZjRFe2vu82onBT0mJbyb42TeESfQqn28R0HZwERuCpvIxynY8oAZFXp40DaA4NLnubrUHI5ufVngvc4EEWDG_-4LufhdCVTR7SfVc22jkbAp4mC9_9sSR_6rqvp2g_IwGuUAdmQqBmtk3B3l9DVPC5NurTTJEND6CH9BVFk514cD_1SE76F0v7jbvLQ-R_QwkuiXXTkq6kecB3yd7WHSQ1Y2KhhemK0zIFQ24BLeXLx38h1hjT0/" type="text/javascript"></script>
+</body>
+</html>
+, 'https://www.azlyrics.com/lyrics/a1/everytime.html': <!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="A1 &quot;Everytime&quot;: Lately I'm not who I used to be Someone's come and taken me Where I don't wanna go If I knew exactly..." name="description"/>
+<meta content="Everytime lyrics, A1 Everytime lyrics, A1 lyrics" name="keywords"/>
+<meta content="noarchive" name="robots"/>
+<meta content="//www.azlyrics.com/az_logo_tr.png" property="og:image"/>
+<title>A1 - Everytime Lyrics | AZLyrics.com</title>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/local/az.css" rel="stylesheet"/>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script charset="UTF-8" data-domain-script="464b7175-7273-4e0f-8753-e9a483d4a156" data-language="en" src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" type="text/javascript"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<script type="text/javascript">
+ArtistName = "A1";
+SongName = "Everytime";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+</script>
+</head>
+<body class="az-song-text">
+<nav class="navbar navbar-default navbar-static-top noprint">
+<div class="container">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+<button class="navbar-toggle collapsed" data-target="#search-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-search"></span>
+</button>
+<button class="navbar-toggle collapsed" data-target="#artists-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-th-list"></span>
+</button>
+<a class="navbar-brand" href="//www.azlyrics.com"><img alt="AZLyrics.com" class="pull-left" src="//www.azlyrics.com/az_logo_tr.png" style="max-height:40px; margin-top:-10px;"/></a>
+</div>
+<ul class="collapse navbar-collapse nav navbar-nav" id="artists-collapse">
+<li>
+<div class="btn-group text-center" role="group">
+<a class="btn btn-menu" href="//www.azlyrics.com/a.html">A</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/b.html">B</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/c.html">C</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/d.html">D</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/e.html">E</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/f.html">F</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/g.html">G</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/h.html">H</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/i.html">I</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/j.html">J</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/k.html">K</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/l.html">L</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/m.html">M</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/n.html">N</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/o.html">O</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/p.html">P</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/q.html">Q</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/r.html">R</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/s.html">S</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/t.html">T</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/u.html">U</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/v.html">V</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/w.html">W</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/x.html">X</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/y.html">Y</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/z.html">Z</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/19.html">#</a>
+</div>
+</li>
+</ul>
+<div class="collapse navbar-collapse" id="search-collapse">
+<form action="//search.azlyrics.com/search.php" class="navbar-form navbar-right search" method="get" role="search">
+<div class="input-group">
+<input class="form-control" id="q" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container -->
+</nav>
+<!-- top ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_67Y3"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- main -->
+<div class="container main-page">
+<div class="row">
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+<!-- content -->
+<div class="col-xs-12 col-lg-8 text-center">
+<div class="div-share noprint">
+<div class="addthis_toolbox addthis_default_style">
+<a class="btn btn-xs btn-share addthis_button_facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Feverytime.html&amp;title=A1%20-%20Everytime%20Lyrics%20%7C%20AZLyrics.com&amp;display=page" target="_blank">
+<span class="playblk"><img alt="Share on Facebook" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/facebook.svg" title="Share on Facebook" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Feverytime.html&amp;text=A1%20-%20Everytime%20Lyrics%20%7C%20AZLyrics.com" target="_blank">
+<span class="playblk"><img alt="Share on Twiiter" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/twitter.svg" title="Share on Twiiter" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_email" href="mailto:?subject=A1%20-%20Everytime%20Lyrics%20%7C%20AZLyrics.com&amp;body=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Feverytime.html" target="_blank">
+<span class="playblk"><img alt="Email" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/email.svg" title="Email" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_print" href="javascript:void(window.print());" style="margin-right: 0px !important;">
+<span class="playblk"><img alt="Print" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/print.svg" title="Print" width="25"/></span>
+</a>
+</div>
+</div>
+<div class="div-share"><h1>"Everytime" lyrics</h1></div>
+<div class="lyricsh">
+<h2><a href="//www.azlyrics.com/a/a1.html"><b>A1 Lyrics</b></a></h2>
+</div>
+<div class="ringtone">
+<span id="cf_text_top"></span>
+</div>
+<b>"Everytime"</b><br/>
+<br/>
+<div>
+<!-- Usage of azlyrics.com content by any third-party lyrics provider is prohibited by our licensing agreement. Sorry about that. -->
+Lately I'm not who I used to be<br/>
+Someone's come and taken me<br/>
+Where I don't wanna go<br/>
+If I knew exactly what I have to do<br/>
+In order to be there for you<br/>
+When you were feeling low<br/>
+<br/>
+And all the things we ever wanted<br/>
+Were once yours and mine<br/>
+Now, I know we can revive it<br/>
+All the love we left<br/>
+<br/>
+Everytime I kiss I feel your lips and<br/>
+Everytime I cry I see your smile and<br/>
+Everytime I close my eyes I realise that<br/>
+Everytime I hold your hand in mine<br/>
+The sweetest thing my heart could ever find<br/>
+And I have never felt this way<br/>
+Since the day I gave your love away<br/>
+<br/>
+Save me, I've fallen from my destiny<br/>
+You and I were meant to be<br/>
+I've thrown it all away<br/>
+Now you're gone<br/>
+It's time for me to carry on<br/>
+But baby I just can't go on<br/>
+Without you by my side<br/>
+<br/>
+And all the things we ever wanted<br/>
+Were once yours and mine<br/>
+Now, I know we can revive it<br/>
+All the love we left<br/>
+<br/>
+Everytime I kiss I feel your lips and<br/>
+Everytime I cry I see your smile and<br/>
+Everytime I close my eyes I realise that<br/>
+Everytime I hold your hand in mine<br/>
+The sweetest thing my heart could ever find<br/>
+And I have never felt this way<br/>
+Since the day I gave your love away<br/>
+<br/>
+We can survive it<br/>
+All the pain we feel inside<br/>
+You relied on me and now I've let you down<br/>
+Now, I promise you forever<br/>
+I will be the best I can<br/>
+Now, I know we can revive it<br/>
+All the love we left<br/>
+<br/>
+Everytime I kiss I feel your lips and<br/>
+Everytime I cry I see your smile and<br/>
+Everytime I close my eyes I realise that<br/>
+Everytime I hold your hand in mine<br/>
+The sweetest thing my heart could ever find<br/>
+And I have never felt this way<br/>
+Since I gave your love away<br/>
+<br/>
+Everytime I kiss I feel your lips and<br/>
+Everytime I cry I see your smile and<br/>
+Everytime I close my eyes I realise that<br/>
+Everytime I hold your hand in mine<br/>
+The sweetest thing my heart could ever find<br/>
+And I have never felt this way<br/>
+Since the day I gave your love away
+</div>
+<br/><br/>
+<!-- MxM banner -->
+<div class="noprint" id="azmxmbanner" style="display:none;">
+<script>
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.getElementById('azmxmbanner').style.display='block';
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="//adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_22576065/su_0/rs_0/tr_3vUCAEuSUP_Um8KvNnOg1ls81v_gE9ibWtX8xpFzDNsXhzLowcbvtxxnxE-j6Vms6hFivlYSQHVp9TSaIZabhKkaqKCxyZaVenSMhfdB9JApCr3X3YqWfk3cSVV3aPXnUaBIRPUUY2F94iMb5FZxxidyDrJQzVtTooMJO_zPPlqWsbCloZJ2l6kAq3EeGNBdQNo-kuwgm9vklTPFWNpno6VIIwbLrkLEaRjqUcgXJwnkgzL8bG6NA-oTDdvEYTipIjMs3i7HfTcyZ5XH-9urjiSgh3Qo4qaxYR7My2hp7l0eZ_Nlm_TPNcGWZhjmyc_-Rfk2UlYSWMxaov-GYTVCWwP6VkCYajOaRJIWK-lwgwjPOw_7xyyJlVVYHtLTO7QbqlPWBiqDdtlf_nOYzXI5UEVIoLPS8FOKehJEt1S2J8RM8kLHY4T9/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+</script>
+<br/><br/>
+</div>
+<form action="../../add.php" id="addsong" method="post">
+<input name="what" type="hidden" value="add_song"/>
+<input name="artist" type="hidden" value="A1"/>
+<input name="artist_id" type="hidden" value="29"/>
+</form>
+<form action="../../add.php" id="corlyr" method="post">
+<input name="what" type="hidden" value="correct_lyrics"/>
+<input name="song_id" type="hidden" value="212"/>
+</form>
+<div class="smt noprint">
+<a class="btn btn-primary" href="#" onclick="submitCorrections()"><span class="glyphicon glyphicon-pencil"></span> Submit Corrections</a>
+</div>
+<div class="smt"></div>
+<div class="noprint" style="padding: 15px 0">
+<span id="cf_text_bottom"></span>
+</div>
+<!-- credits -->
+<div class="smt"><small>Writer(s): Will.i.am, Mark Read, Christian Ingebrigtsen</small>
+<br/>
+</div>
+<!-- song facts -->
+<!-- artist link -->
+<ol class="breadcrumb noprint" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com" itemprop="item"><span itemprop="name">AZLyrics</span></a><meta content="1" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a.html" itemprop="item"><span itemprop="name">A</span></a><meta content="2" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a/a1.html" itemprop="item"><span itemprop="name">A1 Lyrics</span></a><meta content="3" itemprop="position"/></li>
+</ol>
+<!-- album songlists -->
+<div class="panel songlist-panel noprint">
+<div class="songinalbum_title">album: <b>"Here We Come"</b> (1999)</div>
+<div class="listalbum-item"><a href="foreverinlove.html">Forever In Love</a></div>
+<div class="listalbum-item"><a href="bethefirsttobelieve.html">Be The First To Believe</a></div>
+<div class="listalbum-item"><a href="summertimeofourlives.html">Summertime Of Our Lives</a></div>
+<div class="listalbum-item"><a href="readyornot.html">Ready Or Not</a></div>
+<div class="listalbum-item"><a href="everytime.html">Everytime</a></div>
+<div class="listalbum-item"><a href="ifonly.html">If Only</a></div>
+<div class="listalbum-item"><a href="heyyou.html">Hey You</a></div>
+<div class="listalbum-item"><a href="likearose.html">Like A Rose</a></div>
+<div class="listalbum-item"><a href="walkingintherain.html">Walking In The Rain</a></div>
+<div class="listalbum-item"><a href="stillaround.html">Still Around</a></div>
+<div class="listalbum-item"><a href="istillbelieve.html">I Still Believe</a></div>
+<div class="listalbum-item"><a href="heavenbyyourside.html">Heaven By Your Side</a></div>
+</div>
+<!-- album songlists end -->
+<form action="//search.azlyrics.com/search.php" class="search noprint" method="get" role="search">
+<div class="input-group" style="margin-bottom:15px">
+<input class="form-control" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+<div class="noprint visible-xs-block" style="margin-top:5px;margin-bottom:5px">
+<div id="RTK_yc1Z"></div>
+</div>
+</div> <!-- content -->
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+</div>
+</div> <!-- container main-page -->
+<!-- nav bottom -->
+<nav class="navbar navbar-default navbar-bottom">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/add.php" onclick="document.forms['addsong'].submit();return false;">Submit Lyrics</a></li>
+<li><a href="//www.stlyrics.com">Soundtracks</a></li>
+<li><a href="//www.facebook.com/pages/AZLyricscom/154139197951223">Facebook</a></li>
+<li><a href="//www.azlyrics.com/contact.html">Contact Us</a></li>
+</ul>
+</div>
+</nav>
+<!-- bot ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_W2xH"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- footer -->
+<nav class="navbar navbar-footer noprint">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/adv.html">Advertise Here</a></li>
+<li><a href="//www.azlyrics.com/privacy.html">Privacy Policy</a></li>
+<li><a href="//www.azlyrics.com/cookie.html">Cookie Policy</a></li>
+<li><a href="//www.azlyrics.com/copyright.html">DMCA Policy</a></li>
+</ul>
+</div>
+</nav>
+<div class="footer-wrap">
+<div class="container">
+<div class="noprint"><span style="font-weight:bold;line-height:54px;vertical-align:top;">Lyrics licensed by </span><img alt="MusixMatch" height="54" src="//www.azlyrics.com/images/mxm.png" width="184"/></div>
+<small>
+<script type="text/javascript">
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             </script>
+</small>
+</div>
+</div>
+<script>
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "pop";
+cf_no_bit = 0;
+</script>
+<script src="/local/anew.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div class="hidden" id="CssFailCheck" style="height:1px;"></div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="//www.azlyrics.com/local/jquery.min.js"><\/script>')</script>
+<script>
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="//www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="//www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    </script>
+<script src="/local/az.js"></script>
+<script src="/geo.js"></script>
+<script src="https://tracking.musixmatch.com/t1.0/m_js/e_0/sn_0/l_22576065/su_0/rs_0/tr_3vUCAEuSUP_Um8KvNnOg1ls81v_gE9ibWtX8xpFzDNsXhzLowcbvtxxnxE-j6Vms6hFivlYSQHVp9TSaIZabhKkaqKCxyZaVenSMhfdB9JApCr3X3YqWfk3cSVV3aPXnUaBIRPUUY2F94iMb5FZxxidyDrJQzVtTooMJO_zPPlqWsbCloZJ2l6kAq3EeGNBdQNo-kuwgm9vklTPFWNpno6VIIwbLrkLEaRjqUcgXJwnkgzL8bG6NA-oTDdvEYTipIjMs3i7HfTcyZ5XH-9urjiSgh3Qo4qaxYR7My2hp7l0eZ_Nlm_TPNcGWZhjmyc_-Rfk2UlYSWMxaov-GYTVCWwP6VkCYajOaRJIWK-lwgwjPOw_7xyyJlVVYHtLTO7QbqlPWBiqDdtlf_nOYzXI5UEVIoLPS8FOKehJEt1S2J8RM8kLHY4T9/" type="text/javascript"></script>
+</body>
+</html>
+, 'https://www.azlyrics.com/lyrics/a1/ifonly.html': <!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="A1 &quot;If Only&quot;: I SAID I'D NEVER LEAVE YOU. I SAID THAT I WOULD NEVER LET YOU DOWN. I NEEDED A CHANCE TO PROVE MY..." name="description"/>
+<meta content="If Only lyrics, A1 If Only lyrics, A1 lyrics" name="keywords"/>
+<meta content="noarchive" name="robots"/>
+<meta content="//www.azlyrics.com/az_logo_tr.png" property="og:image"/>
+<title>A1 - If Only Lyrics | AZLyrics.com</title>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/local/az.css" rel="stylesheet"/>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script charset="UTF-8" data-domain-script="464b7175-7273-4e0f-8753-e9a483d4a156" data-language="en" src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" type="text/javascript"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<script type="text/javascript">
+ArtistName = "A1";
+SongName = "If Only";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+</script>
+</head>
+<body class="az-song-text">
+<nav class="navbar navbar-default navbar-static-top noprint">
+<div class="container">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+<button class="navbar-toggle collapsed" data-target="#search-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-search"></span>
+</button>
+<button class="navbar-toggle collapsed" data-target="#artists-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-th-list"></span>
+</button>
+<a class="navbar-brand" href="//www.azlyrics.com"><img alt="AZLyrics.com" class="pull-left" src="//www.azlyrics.com/az_logo_tr.png" style="max-height:40px; margin-top:-10px;"/></a>
+</div>
+<ul class="collapse navbar-collapse nav navbar-nav" id="artists-collapse">
+<li>
+<div class="btn-group text-center" role="group">
+<a class="btn btn-menu" href="//www.azlyrics.com/a.html">A</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/b.html">B</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/c.html">C</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/d.html">D</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/e.html">E</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/f.html">F</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/g.html">G</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/h.html">H</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/i.html">I</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/j.html">J</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/k.html">K</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/l.html">L</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/m.html">M</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/n.html">N</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/o.html">O</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/p.html">P</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/q.html">Q</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/r.html">R</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/s.html">S</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/t.html">T</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/u.html">U</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/v.html">V</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/w.html">W</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/x.html">X</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/y.html">Y</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/z.html">Z</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/19.html">#</a>
+</div>
+</li>
+</ul>
+<div class="collapse navbar-collapse" id="search-collapse">
+<form action="//search.azlyrics.com/search.php" class="navbar-form navbar-right search" method="get" role="search">
+<div class="input-group">
+<input class="form-control" id="q" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container -->
+</nav>
+<!-- top ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_67Y3"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- main -->
+<div class="container main-page">
+<div class="row">
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+<!-- content -->
+<div class="col-xs-12 col-lg-8 text-center">
+<div class="div-share noprint">
+<div class="addthis_toolbox addthis_default_style">
+<a class="btn btn-xs btn-share addthis_button_facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fifonly.html&amp;title=A1%20-%20If%20Only%20Lyrics%20%7C%20AZLyrics.com&amp;display=page" target="_blank">
+<span class="playblk"><img alt="Share on Facebook" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/facebook.svg" title="Share on Facebook" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fifonly.html&amp;text=A1%20-%20If%20Only%20Lyrics%20%7C%20AZLyrics.com" target="_blank">
+<span class="playblk"><img alt="Share on Twiiter" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/twitter.svg" title="Share on Twiiter" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_email" href="mailto:?subject=A1%20-%20If%20Only%20Lyrics%20%7C%20AZLyrics.com&amp;body=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fifonly.html" target="_blank">
+<span class="playblk"><img alt="Email" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/email.svg" title="Email" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_print" href="javascript:void(window.print());" style="margin-right: 0px !important;">
+<span class="playblk"><img alt="Print" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/print.svg" title="Print" width="25"/></span>
+</a>
+</div>
+</div>
+<div class="div-share"><h1>"If Only" lyrics</h1></div>
+<div class="lyricsh">
+<h2><a href="//www.azlyrics.com/a/a1.html"><b>A1 Lyrics</b></a></h2>
+</div>
+<div class="ringtone">
+<span id="cf_text_top"></span>
+</div>
+<b>"If Only"</b><br/>
+<br/>
+<div>
+<!-- Usage of azlyrics.com content by any third-party lyrics provider is prohibited by our licensing agreement. Sorry about that. -->
+<i>[BEN:]</i> I SAID I'D NEVER LEAVE YOU.<br/>
+I SAID THAT I WOULD NEVER LET YOU DOWN.<br/>
+I NEEDED A CHANCE TO PROVE MY LOVE TO YOU<br/>
+TIL' TIME IS THROUGH.<br/>
+<br/>
+<i>[MARK:]</i> THE PROMISES I GAVE YOU,<br/>
+I NEVER MEANT TO SEE THEM LEFT UNTRUE.<br/>
+YOU WERE MY EVERYTHING, I GIVE MY<br/>
+HEART TO YOU - TO START A NEW.<br/>
+<br/>
+<i>[CHRISTIAN:]</i> AND ALL OF THE DAYS JUST PASS ME BY.<br/>
+SO I PRAY, AND I'M ASKING WHY<br/>
+<br/>
+<i>[BEN:]</i> ALL THAT I ASK IS ONE MORE TRY.<br/>
+COS I NEVER WANNA SAY GOODBYE.<br/>
+<br/>
+<i>[ALL:]</i> IF ONLY I LISTENED TO MY HEART.<br/>
+THEN MAYBE WE WOULDN'T BE APART.<br/>
+NOW ALL I CAN DREAM ABOUT IS YOU.<br/>
+AND BABY THAT'S ALL I DO.<br/>
+IF ONLY WE TWO COULD START A NEW<br/>
+I PROMISE I'D NEVER BE UNTRUE.<br/>
+COS ALL I CAN DREAM ABOUT IS YOU<br/>
+AND BABY THAT'S ALL I DO.<br/>
+<br/>
+<i>[CHRISTIAN:]</i> YOU'RE LOOKING FOR ANOTHER<br/>
+I'M LOOKING FOR A CHANCE WITH YOU AGAIN<br/>
+I GUESS I NEVER SHOWED YOU<br/>
+WHAT YOU MEAN TO ME<br/>
+CAN'T YOU SEE.<br/>
+<br/>
+<i>[PAUL:]</i> EVERYTHING I TOLD YOU,<br/>
+AND EVERYTHING I DID I FEEL WAS WRONG<br/>
+I DIDN'T KNOW THE WORDS I SAID WOULD<br/>
+MAKE YOU LEAVE, PLEASE BELIEVE<br/>
+<br/>
+<i>[MARK:]</i> AND ALL OF THE DAYS JUST PASS ME BY.<br/>
+SO I PRAY, AND I'M ASKING WHY<br/>
+<br/>
+<i>[BEN:]</i> ALL THAT I ASK IS ONE MORE TRY.<br/>
+COS I NEVER WANNA SAY GOODBYE<br/>
+<br/>
+<i>[ALL:]</i> IF ONLY I LISTENED TO MY HEART.<br/>
+THEN MAYBE WE WOULDN'T BE APART.<br/>
+NOW ALL I CAN DREAM ABOUT IS YOU.<br/>
+AND BABY THAT'S ALL I DO.<br/>
+IF ONLY WE TWO COULD START A NEW<br/>
+I PROMISE I'D NEVER BE UNTRUE.<br/>
+COS ALL I CAN DREAM ABOUT IS YOU<br/>
+AND BABY THAT'S ALL I DO<br/>
+<br/>
+<i>[PAUL + CHRISTIAN:]</i> IF ONLY, IF ONLY, IF ONLY, ALL I DO<br/>
+IF ONLY, IF ONLY, IF ONLY, ALL I DO X 2 <br/>
+<br/>
+<i>[BEN + MARK:]</i> IF ONLY I'D LISTENED TO MY HEART,<br/>
+THEN MAYBE WE WOULDN'T BE APART.<br/>
+NOW ALL I CAN DREAM ABOUT IS YOU<br/>
+AND BABY THAT'S ALL I DO<br/>
+<br/>
+<i>[ALL:]</i> IF ONLY I LISTENED TO MY HEART.<br/>
+THEN MAYBE WE WOULDN'T BE APART.<br/>
+NOW ALL I CAN DREAM ABOUT IS YOU.<br/>
+AND BABY THAT'S ALL I DO.<br/>
+IF ONLY WE TWO COULD START A NEW<br/>
+I PROMISE I'D NEVER BE UNTRUE.<br/>
+COS ALL I CAN DREAM ABOUT IS YOU<br/>
+AND BABY THAT'S ALL I DO<br/>
+<br/>
+<i>[ALL:]</i> IF ONLY I LISTENED TO MY HEART.<br/>
+THEN MAYBE WE WOULDN'T BE APART.<br/>
+NOW ALL I CAN DREAM ABOUT IS YOU.<br/>
+AND BABY THAT'S ALL I DO.<br/>
+IF ONLY WE TWO COULD START A NEW<br/>
+I PROMISE I'D NEVER BE UNTRUE.<br/>
+COS ALL I CAN DREAM ABOUT IS YOU<br/>
+AND BABY THAT'S ALL I DO.
+</div>
+<br/><br/>
+<!-- MxM banner -->
+<div class="noprint" id="azmxmbanner" style="display:none;">
+<script>
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.getElementById('azmxmbanner').style.display='block';
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="//adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_1149917/su_0/rs_0/tr_3vUCACL_F-f0K9HvwVtpu8J0ycUEEGpo_6RuQzjMWVSjtEdU34ZdQoB1hyMd-0TgoNxRjrx4JvuXll8nQoNEW5la57rDy9-3zpWXpk21Fg57x36KjNE7_YUyJbeZ49e3QMvDx5rVVDUbUKB98jJEYmU_JI8lvahVRdvYGNdut3MAPvXzSMCm2KN4PivsgWYWIDWTrgL30ONxAs5qTQk9-xLWtv7AnCF3WkN03lM6WvLdDGandnfzGoS3BKtYM4LQ2e8i8l7WAzviEzISfqQro27zidNc_YmQHaB55lIo8ywug8PSVGU5l2rQwebfWeSx2HJzSoFRwQ__I8PRwDaMmCU6swwX9AtpKK0we1GP4mibXLgBuNylkSMbD93PMLPVIfrf-W0MWohk9-7xPPG9JViLnIJQn3d9B0RVwayiyzKF4-LHHmb1L88/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+</script>
+<br/><br/>
+</div>
+<form action="../../add.php" id="addsong" method="post">
+<input name="what" type="hidden" value="add_song"/>
+<input name="artist" type="hidden" value="A1"/>
+<input name="artist_id" type="hidden" value="29"/>
+</form>
+<form action="../../add.php" id="corlyr" method="post">
+<input name="what" type="hidden" value="correct_lyrics"/>
+<input name="song_id" type="hidden" value="213"/>
+</form>
+<div class="smt noprint">
+<a class="btn btn-primary" href="#" onclick="submitCorrections()"><span class="glyphicon glyphicon-pencil"></span> Submit Corrections</a>
+</div>
+<div class="smt"></div>
+<div class="noprint" style="padding: 15px 0">
+<span id="cf_text_bottom"></span>
+</div>
+<!-- credits -->
+<div class="smt"><small>Writer(s): Will.i.am, Paul Marazzi, Mark Read, Christian Ingebrigtsen</small>
+<br/>
+</div>
+<!-- song facts -->
+<!-- artist link -->
+<ol class="breadcrumb noprint" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com" itemprop="item"><span itemprop="name">AZLyrics</span></a><meta content="1" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a.html" itemprop="item"><span itemprop="name">A</span></a><meta content="2" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a/a1.html" itemprop="item"><span itemprop="name">A1 Lyrics</span></a><meta content="3" itemprop="position"/></li>
+</ol>
+<!-- album songlists -->
+<div class="panel songlist-panel noprint">
+<div class="songinalbum_title">album: <b>"Here We Come"</b> (1999)</div>
+<div class="listalbum-item"><a href="foreverinlove.html">Forever In Love</a></div>
+<div class="listalbum-item"><a href="bethefirsttobelieve.html">Be The First To Believe</a></div>
+<div class="listalbum-item"><a href="summertimeofourlives.html">Summertime Of Our Lives</a></div>
+<div class="listalbum-item"><a href="readyornot.html">Ready Or Not</a></div>
+<div class="listalbum-item"><a href="everytime.html">Everytime</a></div>
+<div class="listalbum-item"><a href="ifonly.html">If Only</a></div>
+<div class="listalbum-item"><a href="heyyou.html">Hey You</a></div>
+<div class="listalbum-item"><a href="likearose.html">Like A Rose</a></div>
+<div class="listalbum-item"><a href="walkingintherain.html">Walking In The Rain</a></div>
+<div class="listalbum-item"><a href="stillaround.html">Still Around</a></div>
+<div class="listalbum-item"><a href="istillbelieve.html">I Still Believe</a></div>
+<div class="listalbum-item"><a href="heavenbyyourside.html">Heaven By Your Side</a></div>
+</div>
+<!-- album songlists end -->
+<form action="//search.azlyrics.com/search.php" class="search noprint" method="get" role="search">
+<div class="input-group" style="margin-bottom:15px">
+<input class="form-control" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+<div class="noprint visible-xs-block" style="margin-top:5px;margin-bottom:5px">
+<div id="RTK_yc1Z"></div>
+</div>
+</div> <!-- content -->
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+</div>
+</div> <!-- container main-page -->
+<!-- nav bottom -->
+<nav class="navbar navbar-default navbar-bottom">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/add.php" onclick="document.forms['addsong'].submit();return false;">Submit Lyrics</a></li>
+<li><a href="//www.stlyrics.com">Soundtracks</a></li>
+<li><a href="//www.facebook.com/pages/AZLyricscom/154139197951223">Facebook</a></li>
+<li><a href="//www.azlyrics.com/contact.html">Contact Us</a></li>
+</ul>
+</div>
+</nav>
+<!-- bot ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_W2xH"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- footer -->
+<nav class="navbar navbar-footer noprint">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/adv.html">Advertise Here</a></li>
+<li><a href="//www.azlyrics.com/privacy.html">Privacy Policy</a></li>
+<li><a href="//www.azlyrics.com/cookie.html">Cookie Policy</a></li>
+<li><a href="//www.azlyrics.com/copyright.html">DMCA Policy</a></li>
+</ul>
+</div>
+</nav>
+<div class="footer-wrap">
+<div class="container">
+<div class="noprint"><span style="font-weight:bold;line-height:54px;vertical-align:top;">Lyrics licensed by </span><img alt="MusixMatch" height="54" src="//www.azlyrics.com/images/mxm.png" width="184"/></div>
+<small>
+<script type="text/javascript">
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             </script>
+</small>
+</div>
+</div>
+<script>
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "pop";
+cf_no_bit = 0;
+</script>
+<script src="/local/anew.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div class="hidden" id="CssFailCheck" style="height:1px;"></div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="//www.azlyrics.com/local/jquery.min.js"><\/script>')</script>
+<script>
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="//www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="//www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    </script>
+<script src="/local/az.js"></script>
+<script src="/geo.js"></script>
+<script src="https://tracking.musixmatch.com/t1.0/m_js/e_0/sn_0/l_1149917/su_0/rs_0/tr_3vUCACL_F-f0K9HvwVtpu8J0ycUEEGpo_6RuQzjMWVSjtEdU34ZdQoB1hyMd-0TgoNxRjrx4JvuXll8nQoNEW5la57rDy9-3zpWXpk21Fg57x36KjNE7_YUyJbeZ49e3QMvDx5rVVDUbUKB98jJEYmU_JI8lvahVRdvYGNdut3MAPvXzSMCm2KN4PivsgWYWIDWTrgL30ONxAs5qTQk9-xLWtv7AnCF3WkN03lM6WvLdDGandnfzGoS3BKtYM4LQ2e8i8l7WAzviEzISfqQro27zidNc_YmQHaB55lIo8ywug8PSVGU5l2rQwebfWeSx2HJzSoFRwQ__I8PRwDaMmCU6swwX9AtpKK0we1GP4mibXLgBuNylkSMbD93PMLPVIfrf-W0MWohk9-7xPPG9JViLnIJQn3d9B0RVwayiyzKF4-LHHmb1L88/" type="text/javascript"></script>
+</body>
+</html>
+, 'https://www.azlyrics.com/lyrics/a1/heyyou.html': <!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content='A1 "Hey You": HEY YOU, LOOKING AROUND AT YOUR FRIENDS YOU SEE SOMETHING ABOUT THEM HAS CHANGED AND NOTHINGS CLEA...' name="description"/>
+<meta content="Hey You lyrics, A1 Hey You lyrics, A1 lyrics" name="keywords"/>
+<meta content="noarchive" name="robots"/>
+<meta content="//www.azlyrics.com/az_logo_tr.png" property="og:image"/>
+<title>A1 - Hey You Lyrics | AZLyrics.com</title>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/local/az.css" rel="stylesheet"/>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script charset="UTF-8" data-domain-script="464b7175-7273-4e0f-8753-e9a483d4a156" data-language="en" src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" type="text/javascript"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<script type="text/javascript">
+ArtistName = "A1";
+SongName = "Hey You";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+</script>
+</head>
+<body class="az-song-text">
+<nav class="navbar navbar-default navbar-static-top noprint">
+<div class="container">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+<button class="navbar-toggle collapsed" data-target="#search-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-search"></span>
+</button>
+<button class="navbar-toggle collapsed" data-target="#artists-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-th-list"></span>
+</button>
+<a class="navbar-brand" href="//www.azlyrics.com"><img alt="AZLyrics.com" class="pull-left" src="//www.azlyrics.com/az_logo_tr.png" style="max-height:40px; margin-top:-10px;"/></a>
+</div>
+<ul class="collapse navbar-collapse nav navbar-nav" id="artists-collapse">
+<li>
+<div class="btn-group text-center" role="group">
+<a class="btn btn-menu" href="//www.azlyrics.com/a.html">A</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/b.html">B</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/c.html">C</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/d.html">D</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/e.html">E</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/f.html">F</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/g.html">G</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/h.html">H</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/i.html">I</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/j.html">J</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/k.html">K</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/l.html">L</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/m.html">M</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/n.html">N</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/o.html">O</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/p.html">P</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/q.html">Q</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/r.html">R</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/s.html">S</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/t.html">T</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/u.html">U</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/v.html">V</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/w.html">W</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/x.html">X</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/y.html">Y</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/z.html">Z</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/19.html">#</a>
+</div>
+</li>
+</ul>
+<div class="collapse navbar-collapse" id="search-collapse">
+<form action="//search.azlyrics.com/search.php" class="navbar-form navbar-right search" method="get" role="search">
+<div class="input-group">
+<input class="form-control" id="q" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container -->
+</nav>
+<!-- top ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_67Y3"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- main -->
+<div class="container main-page">
+<div class="row">
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+<!-- content -->
+<div class="col-xs-12 col-lg-8 text-center">
+<div class="div-share noprint">
+<div class="addthis_toolbox addthis_default_style">
+<a class="btn btn-xs btn-share addthis_button_facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fheyyou.html&amp;title=A1%20-%20Hey%20You%20Lyrics%20%7C%20AZLyrics.com&amp;display=page" target="_blank">
+<span class="playblk"><img alt="Share on Facebook" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/facebook.svg" title="Share on Facebook" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fheyyou.html&amp;text=A1%20-%20Hey%20You%20Lyrics%20%7C%20AZLyrics.com" target="_blank">
+<span class="playblk"><img alt="Share on Twiiter" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/twitter.svg" title="Share on Twiiter" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_email" href="mailto:?subject=A1%20-%20Hey%20You%20Lyrics%20%7C%20AZLyrics.com&amp;body=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fheyyou.html" target="_blank">
+<span class="playblk"><img alt="Email" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/email.svg" title="Email" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_print" href="javascript:void(window.print());" style="margin-right: 0px !important;">
+<span class="playblk"><img alt="Print" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/print.svg" title="Print" width="25"/></span>
+</a>
+</div>
+</div>
+<div class="div-share"><h1>"Hey You" lyrics</h1></div>
+<div class="lyricsh">
+<h2><a href="//www.azlyrics.com/a/a1.html"><b>A1 Lyrics</b></a></h2>
+</div>
+<div class="ringtone">
+<span id="cf_text_top"></span>
+</div>
+<b>"Hey You"</b><br/>
+<br/>
+<div>
+<!-- Usage of azlyrics.com content by any third-party lyrics provider is prohibited by our licensing agreement. Sorry about that. -->
+<i>[VERSE 1]</i><br/>
+<br/>
+HEY YOU, LOOKING AROUND AT YOUR FRIENDS<br/>
+YOU SEE SOMETHING ABOUT THEM HAS CHANGED<br/>
+AND NOTHINGS CLEAR<br/>
+THEY'RE NOT THE SAME<br/>
+DON'T YOU TAKE IT TO HEART ALL THE SAME<br/>
+YOU'LL SEE IT WORKS OUT BETTER THAT WAY<br/>
+DON'T BE AFRAID TO SHOUT YOUR NAME<br/>
+<br/>
+<i>[BRIDGE 1]</i><br/>
+<br/>
+DO WHAT YOU GOTTA DO<br/>
+THE WORLS IS WAITING FOR YOU<br/>
+THERE AIN'T NOTHING TO LOSE<br/>
+EVERYBODY TODAY<br/>
+EVERYTHING IS OK<br/>
+COME TOGETHER AND SAY<br/>
+<br/>
+<i>[CHORUS]</i><br/>
+<br/>
+IT'S ALRIGHT IT'S ALRIGHT<br/>
+YOU DON'T HAVE TO STOP THE WAY YOU'RE FEELING<br/>
+'COS YOU'VE GOT TIME TO GET IT RIGHT<br/>
+LET YOUR MIND KNOW WHERE IT'S LEADING<br/>
+IT'S ALRIGHT IT'S ALRIGHT<br/>
+IT'S ALRIGHT IT'S ALRIGHT<br/>
+<br/>
+<i>[VERSE 2]</i><br/>
+HEY YOU, JUST BE THE BEST YOU CAN BE<br/>
+YOU'LL SEE THE BEST THINGS IN LIFE COME FOR FREE<br/>
+NOW IT'S ALL CLEAR, NO CLOUDY DAY<br/>
+IF YOU FOLLOW YOUR HEART AND BELIEVE<br/>
+YOU'LL BE EXCITED BY WHAT YOU'LL ACHIEVE<br/>
+DON'T BE AFRAID TO FIND A WAY<br/>
+<br/>
+<i>[BRIDGE 2]</i><br/>
+<br/>
+OH, DO WHAT YOU GOTTA DO<br/>
+THE WORLS IS WAITING FOR YOU<br/>
+THERE AIN'T NOTHING TO LOSE<br/>
+EVERYBODY TODAY<br/>
+IF HE THINKS IT'S OK<br/>
+COME TOGETHER AND SAY<br/>
+<br/>
+<i>[CHORUS]</i><br/>
+<br/>
+<i>[BRIDGE 3]</i><br/>
+<br/>
+DO WHAT YOU GOTTA DO<br/>
+THE WORLS IS WAITING FOR YOU<br/>
+THERE AIN'T NOTHING TO LOSE<br/>
+EVERYBODY TODAY<br/>
+IF HE THINKS IT'S OK<br/>
+COME TOGETHER AND SAY<br/>
+<br/>
+<i>[CHORUS]</i>
+</div>
+<br/><br/>
+<!-- MxM banner -->
+<div class="noprint" id="azmxmbanner" style="display:none;">
+<script>
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.getElementById('azmxmbanner').style.display='block';
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="//adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_1149908/su_0/rs_0/tr_3vUCAOyydvj1_oif0q7djNORajzLesZoS7H69feMEeEClKlpDFXqK4PW4ZI-wghaY9cK3etfoAJAWOEIUEMI0S4ye73gQ5fdU0uY5oqhyVBiH0omvDbb1CVAO49lHA32jl1j6Xfe2Z9gUQNjDyEbW76avvw6MUvywBFdo3s8JN7hQmjcSr2OybhpNxuJ8ujFmM51eN78pyeD8lTpcVgYUJagyMdFVRdyU82OFgMDDJI9LjKqGqIHrgBC9OJkjaMvyE6Nz7OT7TgihfLQ6MWFW-K438HULvREu3oz65zrY44fVF4tq8_5DpsE9E5dLpj5hAhy1qwVm66O2umXQ4nV-FeXsqss0doFXx91gFn0_lMXReZZ1z99YkL-iJLu89-ayFB1gpw88Q78CUOmBeBr-rQd1kAHUhvRzHI402WolGp3jAAoREtx6C8/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+</script>
+<br/><br/>
+</div>
+<form action="../../add.php" id="addsong" method="post">
+<input name="what" type="hidden" value="add_song"/>
+<input name="artist" type="hidden" value="A1"/>
+<input name="artist_id" type="hidden" value="29"/>
+</form>
+<form action="../../add.php" id="corlyr" method="post">
+<input name="what" type="hidden" value="correct_lyrics"/>
+<input name="song_id" type="hidden" value="214"/>
+</form>
+<div class="smt noprint">
+<a class="btn btn-primary" href="#" onclick="submitCorrections()"><span class="glyphicon glyphicon-pencil"></span> Submit Corrections</a>
+</div>
+<div class="smt"></div>
+<div class="noprint" style="padding: 15px 0">
+<span id="cf_text_bottom"></span>
+</div>
+<!-- credits -->
+<div class="smt"><small>Writer(s): Steve Mac, John Francis Matthews, Chris Lee Laws</small>
+<br/>
+</div>
+<!-- song facts -->
+<!-- artist link -->
+<ol class="breadcrumb noprint" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com" itemprop="item"><span itemprop="name">AZLyrics</span></a><meta content="1" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a.html" itemprop="item"><span itemprop="name">A</span></a><meta content="2" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a/a1.html" itemprop="item"><span itemprop="name">A1 Lyrics</span></a><meta content="3" itemprop="position"/></li>
+</ol>
+<!-- album songlists -->
+<div class="panel songlist-panel noprint">
+<div class="songinalbum_title">album: <b>"Here We Come"</b> (1999)</div>
+<div class="listalbum-item"><a href="foreverinlove.html">Forever In Love</a></div>
+<div class="listalbum-item"><a href="bethefirsttobelieve.html">Be The First To Believe</a></div>
+<div class="listalbum-item"><a href="summertimeofourlives.html">Summertime Of Our Lives</a></div>
+<div class="listalbum-item"><a href="readyornot.html">Ready Or Not</a></div>
+<div class="listalbum-item"><a href="everytime.html">Everytime</a></div>
+<div class="listalbum-item"><a href="ifonly.html">If Only</a></div>
+<div class="listalbum-item"><a href="heyyou.html">Hey You</a></div>
+<div class="listalbum-item"><a href="likearose.html">Like A Rose</a></div>
+<div class="listalbum-item"><a href="walkingintherain.html">Walking In The Rain</a></div>
+<div class="listalbum-item"><a href="stillaround.html">Still Around</a></div>
+<div class="listalbum-item"><a href="istillbelieve.html">I Still Believe</a></div>
+<div class="listalbum-item"><a href="heavenbyyourside.html">Heaven By Your Side</a></div>
+</div>
+<!-- album songlists end -->
+<form action="//search.azlyrics.com/search.php" class="search noprint" method="get" role="search">
+<div class="input-group" style="margin-bottom:15px">
+<input class="form-control" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+<div class="noprint visible-xs-block" style="margin-top:5px;margin-bottom:5px">
+<div id="RTK_yc1Z"></div>
+</div>
+</div> <!-- content -->
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+</div>
+</div> <!-- container main-page -->
+<!-- nav bottom -->
+<nav class="navbar navbar-default navbar-bottom">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/add.php" onclick="document.forms['addsong'].submit();return false;">Submit Lyrics</a></li>
+<li><a href="//www.stlyrics.com">Soundtracks</a></li>
+<li><a href="//www.facebook.com/pages/AZLyricscom/154139197951223">Facebook</a></li>
+<li><a href="//www.azlyrics.com/contact.html">Contact Us</a></li>
+</ul>
+</div>
+</nav>
+<!-- bot ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_W2xH"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- footer -->
+<nav class="navbar navbar-footer noprint">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/adv.html">Advertise Here</a></li>
+<li><a href="//www.azlyrics.com/privacy.html">Privacy Policy</a></li>
+<li><a href="//www.azlyrics.com/cookie.html">Cookie Policy</a></li>
+<li><a href="//www.azlyrics.com/copyright.html">DMCA Policy</a></li>
+</ul>
+</div>
+</nav>
+<div class="footer-wrap">
+<div class="container">
+<div class="noprint"><span style="font-weight:bold;line-height:54px;vertical-align:top;">Lyrics licensed by </span><img alt="MusixMatch" height="54" src="//www.azlyrics.com/images/mxm.png" width="184"/></div>
+<small>
+<script type="text/javascript">
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             </script>
+</small>
+</div>
+</div>
+<script>
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "pop";
+cf_no_bit = 0;
+</script>
+<script src="/local/anew.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div class="hidden" id="CssFailCheck" style="height:1px;"></div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="//www.azlyrics.com/local/jquery.min.js"><\/script>')</script>
+<script>
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="//www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="//www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    </script>
+<script src="/local/az.js"></script>
+<script src="/geo.js"></script>
+<script src="https://tracking.musixmatch.com/t1.0/m_js/e_0/sn_0/l_1149908/su_0/rs_0/tr_3vUCAOyydvj1_oif0q7djNORajzLesZoS7H69feMEeEClKlpDFXqK4PW4ZI-wghaY9cK3etfoAJAWOEIUEMI0S4ye73gQ5fdU0uY5oqhyVBiH0omvDbb1CVAO49lHA32jl1j6Xfe2Z9gUQNjDyEbW76avvw6MUvywBFdo3s8JN7hQmjcSr2OybhpNxuJ8ujFmM51eN78pyeD8lTpcVgYUJagyMdFVRdyU82OFgMDDJI9LjKqGqIHrgBC9OJkjaMvyE6Nz7OT7TgihfLQ6MWFW-K438HULvREu3oz65zrY44fVF4tq8_5DpsE9E5dLpj5hAhy1qwVm66O2umXQ4nV-FeXsqss0doFXx91gFn0_lMXReZZ1z99YkL-iJLu89-ayFB1gpw88Q78CUOmBeBr-rQd1kAHUhvRzHI402WolGp3jAAoREtx6C8/" type="text/javascript"></script>
+</body>
+</html>
+, 'https://www.azlyrics.com/lyrics/a1/likearose.html': <!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content='A1 "Like A Rose": And as I look into your eyes I see an angel in disguise Sent from god above For me to love To hold a...' name="description"/>
+<meta content="Like A Rose lyrics, A1 Like A Rose lyrics, A1 lyrics" name="keywords"/>
+<meta content="noarchive" name="robots"/>
+<meta content="//www.azlyrics.com/az_logo_tr.png" property="og:image"/>
+<title>A1 - Like A Rose Lyrics | AZLyrics.com</title>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/local/az.css" rel="stylesheet"/>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script charset="UTF-8" data-domain-script="464b7175-7273-4e0f-8753-e9a483d4a156" data-language="en" src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" type="text/javascript"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<script type="text/javascript">
+ArtistName = "A1";
+SongName = "Like A Rose";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+</script>
+</head>
+<body class="az-song-text">
+<nav class="navbar navbar-default navbar-static-top noprint">
+<div class="container">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+<button class="navbar-toggle collapsed" data-target="#search-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-search"></span>
+</button>
+<button class="navbar-toggle collapsed" data-target="#artists-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-th-list"></span>
+</button>
+<a class="navbar-brand" href="//www.azlyrics.com"><img alt="AZLyrics.com" class="pull-left" src="//www.azlyrics.com/az_logo_tr.png" style="max-height:40px; margin-top:-10px;"/></a>
+</div>
+<ul class="collapse navbar-collapse nav navbar-nav" id="artists-collapse">
+<li>
+<div class="btn-group text-center" role="group">
+<a class="btn btn-menu" href="//www.azlyrics.com/a.html">A</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/b.html">B</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/c.html">C</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/d.html">D</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/e.html">E</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/f.html">F</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/g.html">G</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/h.html">H</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/i.html">I</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/j.html">J</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/k.html">K</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/l.html">L</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/m.html">M</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/n.html">N</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/o.html">O</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/p.html">P</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/q.html">Q</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/r.html">R</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/s.html">S</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/t.html">T</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/u.html">U</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/v.html">V</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/w.html">W</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/x.html">X</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/y.html">Y</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/z.html">Z</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/19.html">#</a>
+</div>
+</li>
+</ul>
+<div class="collapse navbar-collapse" id="search-collapse">
+<form action="//search.azlyrics.com/search.php" class="navbar-form navbar-right search" method="get" role="search">
+<div class="input-group">
+<input class="form-control" id="q" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container -->
+</nav>
+<!-- top ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_67Y3"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- main -->
+<div class="container main-page">
+<div class="row">
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+<!-- content -->
+<div class="col-xs-12 col-lg-8 text-center">
+<div class="div-share noprint">
+<div class="addthis_toolbox addthis_default_style">
+<a class="btn btn-xs btn-share addthis_button_facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Flikearose.html&amp;title=A1%20-%20Like%20A%20Rose%20Lyrics%20%7C%20AZLyrics.com&amp;display=page" target="_blank">
+<span class="playblk"><img alt="Share on Facebook" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/facebook.svg" title="Share on Facebook" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Flikearose.html&amp;text=A1%20-%20Like%20A%20Rose%20Lyrics%20%7C%20AZLyrics.com" target="_blank">
+<span class="playblk"><img alt="Share on Twiiter" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/twitter.svg" title="Share on Twiiter" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_email" href="mailto:?subject=A1%20-%20Like%20A%20Rose%20Lyrics%20%7C%20AZLyrics.com&amp;body=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Flikearose.html" target="_blank">
+<span class="playblk"><img alt="Email" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/email.svg" title="Email" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_print" href="javascript:void(window.print());" style="margin-right: 0px !important;">
+<span class="playblk"><img alt="Print" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/print.svg" title="Print" width="25"/></span>
+</a>
+</div>
+</div>
+<div class="div-share"><h1>"Like A Rose" lyrics</h1></div>
+<div class="lyricsh">
+<h2><a href="//www.azlyrics.com/a/a1.html"><b>A1 Lyrics</b></a></h2>
+</div>
+<div class="ringtone">
+<span id="cf_text_top"></span>
+</div>
+<b>"Like A Rose"</b><br/>
+<br/>
+<div>
+<!-- Usage of azlyrics.com content by any third-party lyrics provider is prohibited by our licensing agreement. Sorry about that. -->
+<i>[Ben:]</i><br/>
+And as I look into your eyes<br/>
+I see an angel in disguise<br/>
+Sent from god above<br/>
+For me to love<br/>
+To hold and idolise<br/>
+<br/>
+And as I hold your body near<br/>
+I'll see this month through to a year<br/>
+And then forever on<br/>
+Til life is gone<br/>
+I'll keep your loving near<br/>
+<br/>
+And now I've finally found my way<br/>
+To lead me down this lonely road<br/>
+All I have to do<br/>
+Is follow you<br/>
+To lighten off my load<br/>
+<br/>
+You treat me like a rose<br/>
+You give me room to grow<br/>
+You shone the light of love on me<br/>
+And gave me air so I can breathe<br/>
+You open doors that close<br/>
+In a world where anything goes<br/>
+You give me strength so I stand tall<br/>
+Within this bed of earth<br/>
+Just like a rose<br/>
+<br/>
+And when I feel like hope is gone<br/>
+You give me strength to carry on<br/>
+Each time I look at you<br/>
+There's something new<br/>
+To keep our loving strong<br/>
+<br/>
+I hear you whisper in my ear<br/>
+All of the words I long to hear<br/>
+Of how you'll always be<br/>
+Here next to me<br/>
+To wipe away my tears<br/>
+<br/>
+And now I've finally found my way<br/>
+To lead me down this lonely road<br/>
+All I have to do<br/>
+Is follow you<br/>
+To lighten off my load<br/>
+<br/>
+You treat me like a rose<br/>
+You give me room to grow<br/>
+You shone the light of love on me<br/>
+And gave me air so I can breathe<br/>
+You opened doors I closed<br/>
+In a world where anything goes<br/>
+You give me strength so I stand tall<br/>
+Within this bed of earth<br/>
+Just like a rose<br/>
+<br/>
+And though the seasons change<br/>
+Our love remains the same<br/>
+You face the thunder<br/>
+When the sunshine turns to rain<br/>
+Just like a rose<br/>
+<br/>
+You treat me like a rose<br/>
+You give me room to grow<br/>
+You shone the light of love on me<br/>
+And gave me air so I can breathe<br/>
+You opened doors I closed<br/>
+In a world where anything goes<br/>
+You give me strength so I stand tall<br/>
+Within this bed of earth<br/>
+Just like a rose<br/>
+<br/>
+You give me strength so I stand tall<br/>
+Within this bed of earth<br/>
+Just like a rose
+</div>
+<br/><br/>
+<!-- MxM banner -->
+<div class="noprint" id="azmxmbanner" style="display:none;">
+<script>
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.getElementById('azmxmbanner').style.display='block';
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="//adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_22828792/su_0/rs_0/tr_3vUCAI3UQbiPEgsgE01gepFjLZpXzu1ZV05XCdNjVwlRCMoIaAwSPE8SRsyDYax7ENbNaqAoASmF8-etKQjZe4c7alG7MCOYKog2bUHYOx-Xjw_Aupmyq8qvocj9kAEm9bkyS3H1vDQ2rhMTovPRiqh8C-Od70gZxmQoPO0Dl4Vz0UZCopKGb7G7TUXmnS5HTiGSAxT0aqU7PyR_z5SBXVeAuwWovLUy2kedvM4WswK_Wa9nicxvTa7G9h-SmmtpxZJlvZmMVVIcy-CRQbYLlDY91idWlgdy-N92H2--oByOIvCv-cLJcI-LEb6JBOkd2UMxOPWxtTUp39KblMi7R8wVZwzwPt-pPWQiUtJewBm7J6_obH2rNXi8S0dUf7_VE9uJRlBFvJsh6nee2pGgsmiWYzPUo2UtdYAVg9zsT2cyQkbmcv-4wxUA3Q/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+</script>
+<br/><br/>
+</div>
+<form action="../../add.php" id="addsong" method="post">
+<input name="what" type="hidden" value="add_song"/>
+<input name="artist" type="hidden" value="A1"/>
+<input name="artist_id" type="hidden" value="29"/>
+</form>
+<form action="../../add.php" id="corlyr" method="post">
+<input name="what" type="hidden" value="correct_lyrics"/>
+<input name="song_id" type="hidden" value="215"/>
+</form>
+<div class="smt noprint">
+<a class="btn btn-primary" href="#" onclick="submitCorrections()"><span class="glyphicon glyphicon-pencil"></span> Submit Corrections</a>
+</div>
+<div class="smt"><small>Thanks to Ralph Jan Magnaye for correcting these lyrics.<br/></small>
+</div>
+<div class="noprint" style="padding: 15px 0">
+<span id="cf_text_bottom"></span>
+</div>
+<!-- credits -->
+<div class="smt"><small>Writer(s): Will.i.am, Paul Marazzi, Mark Read</small>
+<br/>
+</div>
+<!-- song facts -->
+<div class="panel album-panel noprint">
+"Like A Rose" is the fourth single from their debut album. The single was released on the 21st of February 2000.
+</div>
+<!-- artist link -->
+<ol class="breadcrumb noprint" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com" itemprop="item"><span itemprop="name">AZLyrics</span></a><meta content="1" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a.html" itemprop="item"><span itemprop="name">A</span></a><meta content="2" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a/a1.html" itemprop="item"><span itemprop="name">A1 Lyrics</span></a><meta content="3" itemprop="position"/></li>
+</ol>
+<!-- album songlists -->
+<div class="panel songlist-panel noprint">
+<div class="songinalbum_title">album: <b>"Here We Come"</b> (1999)</div>
+<div class="listalbum-item"><a href="foreverinlove.html">Forever In Love</a></div>
+<div class="listalbum-item"><a href="bethefirsttobelieve.html">Be The First To Believe</a></div>
+<div class="listalbum-item"><a href="summertimeofourlives.html">Summertime Of Our Lives</a></div>
+<div class="listalbum-item"><a href="readyornot.html">Ready Or Not</a></div>
+<div class="listalbum-item"><a href="everytime.html">Everytime</a></div>
+<div class="listalbum-item"><a href="ifonly.html">If Only</a></div>
+<div class="listalbum-item"><a href="heyyou.html">Hey You</a></div>
+<div class="listalbum-item"><a href="likearose.html">Like A Rose</a></div>
+<div class="listalbum-item"><a href="walkingintherain.html">Walking In The Rain</a></div>
+<div class="listalbum-item"><a href="stillaround.html">Still Around</a></div>
+<div class="listalbum-item"><a href="istillbelieve.html">I Still Believe</a></div>
+<div class="listalbum-item"><a href="heavenbyyourside.html">Heaven By Your Side</a></div>
+</div>
+<!-- album songlists end -->
+<form action="//search.azlyrics.com/search.php" class="search noprint" method="get" role="search">
+<div class="input-group" style="margin-bottom:15px">
+<input class="form-control" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+<div class="noprint visible-xs-block" style="margin-top:5px;margin-bottom:5px">
+<div id="RTK_yc1Z"></div>
+</div>
+</div> <!-- content -->
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+</div>
+</div> <!-- container main-page -->
+<!-- nav bottom -->
+<nav class="navbar navbar-default navbar-bottom">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/add.php" onclick="document.forms['addsong'].submit();return false;">Submit Lyrics</a></li>
+<li><a href="//www.stlyrics.com">Soundtracks</a></li>
+<li><a href="//www.facebook.com/pages/AZLyricscom/154139197951223">Facebook</a></li>
+<li><a href="//www.azlyrics.com/contact.html">Contact Us</a></li>
+</ul>
+</div>
+</nav>
+<!-- bot ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_W2xH"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- footer -->
+<nav class="navbar navbar-footer noprint">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/adv.html">Advertise Here</a></li>
+<li><a href="//www.azlyrics.com/privacy.html">Privacy Policy</a></li>
+<li><a href="//www.azlyrics.com/cookie.html">Cookie Policy</a></li>
+<li><a href="//www.azlyrics.com/copyright.html">DMCA Policy</a></li>
+</ul>
+</div>
+</nav>
+<div class="footer-wrap">
+<div class="container">
+<div class="noprint"><span style="font-weight:bold;line-height:54px;vertical-align:top;">Lyrics licensed by </span><img alt="MusixMatch" height="54" src="//www.azlyrics.com/images/mxm.png" width="184"/></div>
+<small>
+<script type="text/javascript">
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             </script>
+</small>
+</div>
+</div>
+<script>
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "pop";
+cf_no_bit = 0;
+</script>
+<script src="/local/anew.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div class="hidden" id="CssFailCheck" style="height:1px;"></div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="//www.azlyrics.com/local/jquery.min.js"><\/script>')</script>
+<script>
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="//www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="//www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    </script>
+<script src="/local/az.js"></script>
+<script src="/geo.js"></script>
+<script src="https://tracking.musixmatch.com/t1.0/m_js/e_0/sn_0/l_22828792/su_0/rs_0/tr_3vUCAI3UQbiPEgsgE01gepFjLZpXzu1ZV05XCdNjVwlRCMoIaAwSPE8SRsyDYax7ENbNaqAoASmF8-etKQjZe4c7alG7MCOYKog2bUHYOx-Xjw_Aupmyq8qvocj9kAEm9bkyS3H1vDQ2rhMTovPRiqh8C-Od70gZxmQoPO0Dl4Vz0UZCopKGb7G7TUXmnS5HTiGSAxT0aqU7PyR_z5SBXVeAuwWovLUy2kedvM4WswK_Wa9nicxvTa7G9h-SmmtpxZJlvZmMVVIcy-CRQbYLlDY91idWlgdy-N92H2--oByOIvCv-cLJcI-LEb6JBOkd2UMxOPWxtTUp39KblMi7R8wVZwzwPt-pPWQiUtJewBm7J6_obH2rNXi8S0dUf7_VE9uJRlBFvJsh6nee2pGgsmiWYzPUo2UtdYAVg9zsT2cyQkbmcv-4wxUA3Q/" type="text/javascript"></script>
+</body>
+</html>
+, 'https://www.azlyrics.com/lyrics/a1/walkingintherain.html': <!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="A1 &quot;Walking In The Rain&quot;: SITTING BY THE WINDOW SINGING SONGS OF LOVE WISHING YOU WERE HERE BECAUSE THE MEMORY'S NOT ENOUGH..." name="description"/>
+<meta content="Walking In The Rain lyrics, A1 Walking In The Rain lyrics, A1 lyrics" name="keywords"/>
+<meta content="noarchive" name="robots"/>
+<meta content="//www.azlyrics.com/az_logo_tr.png" property="og:image"/>
+<title>A1 - Walking In The Rain Lyrics | AZLyrics.com</title>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/local/az.css" rel="stylesheet"/>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script charset="UTF-8" data-domain-script="464b7175-7273-4e0f-8753-e9a483d4a156" data-language="en" src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" type="text/javascript"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<script type="text/javascript">
+ArtistName = "A1";
+SongName = "Walking In The Rain";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+</script>
+</head>
+<body class="az-song-text">
+<nav class="navbar navbar-default navbar-static-top noprint">
+<div class="container">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+<button class="navbar-toggle collapsed" data-target="#search-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-search"></span>
+</button>
+<button class="navbar-toggle collapsed" data-target="#artists-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-th-list"></span>
+</button>
+<a class="navbar-brand" href="//www.azlyrics.com"><img alt="AZLyrics.com" class="pull-left" src="//www.azlyrics.com/az_logo_tr.png" style="max-height:40px; margin-top:-10px;"/></a>
+</div>
+<ul class="collapse navbar-collapse nav navbar-nav" id="artists-collapse">
+<li>
+<div class="btn-group text-center" role="group">
+<a class="btn btn-menu" href="//www.azlyrics.com/a.html">A</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/b.html">B</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/c.html">C</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/d.html">D</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/e.html">E</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/f.html">F</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/g.html">G</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/h.html">H</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/i.html">I</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/j.html">J</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/k.html">K</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/l.html">L</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/m.html">M</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/n.html">N</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/o.html">O</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/p.html">P</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/q.html">Q</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/r.html">R</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/s.html">S</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/t.html">T</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/u.html">U</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/v.html">V</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/w.html">W</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/x.html">X</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/y.html">Y</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/z.html">Z</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/19.html">#</a>
+</div>
+</li>
+</ul>
+<div class="collapse navbar-collapse" id="search-collapse">
+<form action="//search.azlyrics.com/search.php" class="navbar-form navbar-right search" method="get" role="search">
+<div class="input-group">
+<input class="form-control" id="q" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container -->
+</nav>
+<!-- top ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_67Y3"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- main -->
+<div class="container main-page">
+<div class="row">
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+<!-- content -->
+<div class="col-xs-12 col-lg-8 text-center">
+<div class="div-share noprint">
+<div class="addthis_toolbox addthis_default_style">
+<a class="btn btn-xs btn-share addthis_button_facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fwalkingintherain.html&amp;title=A1%20-%20Walking%20In%20The%20Rain%20Lyrics%20%7C%20AZLyrics.com&amp;display=page" target="_blank">
+<span class="playblk"><img alt="Share on Facebook" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/facebook.svg" title="Share on Facebook" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fwalkingintherain.html&amp;text=A1%20-%20Walking%20In%20The%20Rain%20Lyrics%20%7C%20AZLyrics.com" target="_blank">
+<span class="playblk"><img alt="Share on Twiiter" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/twitter.svg" title="Share on Twiiter" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_email" href="mailto:?subject=A1%20-%20Walking%20In%20The%20Rain%20Lyrics%20%7C%20AZLyrics.com&amp;body=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fwalkingintherain.html" target="_blank">
+<span class="playblk"><img alt="Email" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/email.svg" title="Email" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_print" href="javascript:void(window.print());" style="margin-right: 0px !important;">
+<span class="playblk"><img alt="Print" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/print.svg" title="Print" width="25"/></span>
+</a>
+</div>
+</div>
+<div class="div-share"><h1>"Walking In The Rain" lyrics</h1></div>
+<div class="lyricsh">
+<h2><a href="//www.azlyrics.com/a/a1.html"><b>A1 Lyrics</b></a></h2>
+</div>
+<div class="ringtone">
+<span id="cf_text_top"></span>
+</div>
+<b>"Walking In The Rain"</b><br/>
+<br/>
+<div>
+<!-- Usage of azlyrics.com content by any third-party lyrics provider is prohibited by our licensing agreement. Sorry about that. -->
+<i>[BEN:]</i> SITTING BY THE WINDOW<br/>
+SINGING SONGS OF LOVE<br/>
+WISHING YOU WERE HERE<br/>
+BECAUSE THE MEMORY'S NOT ENOUGH<br/>
+WEAR MY MASK IN SILENCE<br/>
+PRETENDING I'M ALRIGHT<br/>
+IF YOU COULD SEE THEN YOU WOULD BE<br/>
+HERE STANDING BY MY SIDE<br/>
+<br/>
+IT MAY BE HARD TO BELIEVE<br/>
+BUT GIRL YOU'RE THE ONLY ONE I NEED<br/>
+IT MAY BE HARD ALONG THE WAY<br/>
+IT'S THIS FEELING I GET<br/>
+WHEN BLUE SKIES TURN TO GREY<br/>
+<br/>
+FEELS LIKE I'M WALKING IN THE RAIN<br/>
+I FIND MYSELF TRYING TO WASH AWAY THE PAIN<br/>
+CAUSE I NEED YOU TO GIVE ME SOME SHELTER<br/>
+CAUSE I'M FADING AWAY<br/>
+AND BABY, I'M WALKING IN THE RAIN<br/>
+<br/>
+<i>[CHRISTIAN:]</i> EVERY SINGLE HOUR<br/>
+OF EVERY SINGLE DAY<br/>
+I NEED TO CRY, MY EYES ARE DRY<br/>
+I'VE CRIED MY TEARS AWAY<br/>
+CAN'T HELP BUT REMEMBER<br/>
+HOW YOU MADE ME FEEL<br/>
+YOU DRESSED MY SOUL AND MADE ME WHOLE<br/>
+YOU MADE MY LIFE COMPLETE<br/>
+<br/>
+IT MAY BE HARD TO BELIEVE<br/>
+BUT GIRL YOU'RE THE ONLY ONE I NEED<br/>
+IT MAY BE HARD ALONG THE WAY<br/>
+IT'S THIS FEELING I GET<br/>
+WHEN BLUE SKIES TURN TO GREY<br/>
+<br/>
+FEELS LIKE I'M WALKING IN THE RAIN<br/>
+I FIND MYSELF TRYING TO WASH AWAY THE PAIN<br/>
+CAUSE I NEED YOU TO GIVE ME SOME SHELTER<br/>
+CAUSE I'M FADING AWAY<br/>
+AND BABY, I'M WALKING IN THE RAIN<br/>
+<br/>
+<i>[BEN:]</i> OF ALL WE'VE SAID AND DONE<br/>
+REMAINS THE MEMORIES OF DAYS<br/>
+WHEN LIFE WAS FUN<br/>
+BUT NOW WHEN YOU ARE GONE<br/>
+I SIT ALONE TO WATCH THE<br/>
+SETTING OF THE SUN<br/>
+FEELS LIKE I'M WALKING IN THE RAIN<br/>
+I FIND MYSELF TRYING TO WASH AWAY THE PAIN<br/>
+CAUSE I NEED YOU TO GIVE ME SOME SHELTER<br/>
+CAUSE I'M FADING AWAY<br/>
+AND BABY, I'M WALKING IN THE RAIN<br/>
+<br/>
+<i>[CHRISTIAN:]</i> I SAID BABY, I'M WALKING IN THE RAIN
+</div>
+<br/><br/>
+<!-- MxM banner -->
+<div class="noprint" id="azmxmbanner" style="display:none;">
+<script>
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.getElementById('azmxmbanner').style.display='block';
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="//adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_19802836/su_0/rs_0/tr_3vUCAPaJao5Yj0OIK9IEj_hhOLhEY8CdxJduv3_zQufBVUWpgrIMhnnvlvUMuygPIBIAUjMzH1aRRengapUUwOOnh03zQQH3ijSJUtG-mJtzfexOwAPMSgt3rJhYAsDQuDQyLVhYJaR7TQ4OuB7KJbEdOzBGVOMe_o5-DjrcS3hq6bu2Dbp50Lw3cjVe_YZZrm-jt8JIiiz1bv1mcRbPQd2ou3xQEbhK0EA023W6KoKvPLLqSAsqu3rJMT_zs5C1vW4lUSGzDMU08x4g_L2q7tlxfiOUXDO62fgSaqohPoAV9aIjm2-YgnV1SQgr0H-4uwdVxsKrLKvBMo1YG73XhSmnFx7KVAMOqOFmpHF1O7APJ8U7x8tSlyiAHfENkxepq0r4xo1t31NkP12f3WSU9OhneTAJTRhBDYW91RpatOML1LJeo81j-JAvszdZFcPzJU0/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+</script>
+<br/><br/>
+</div>
+<form action="../../add.php" id="addsong" method="post">
+<input name="what" type="hidden" value="add_song"/>
+<input name="artist" type="hidden" value="A1"/>
+<input name="artist_id" type="hidden" value="29"/>
+</form>
+<form action="../../add.php" id="corlyr" method="post">
+<input name="what" type="hidden" value="correct_lyrics"/>
+<input name="song_id" type="hidden" value="216"/>
+</form>
+<div class="smt noprint">
+<a class="btn btn-primary" href="#" onclick="submitCorrections()"><span class="glyphicon glyphicon-pencil"></span> Submit Corrections</a>
+</div>
+<div class="smt"></div>
+<div class="noprint" style="padding: 15px 0">
+<span id="cf_text_bottom"></span>
+</div>
+<!-- credits -->
+<div class="smt"><small>Writer(s): Will.i.am, Christian Ingebrigtsen</small>
+<br/>
+</div>
+<!-- song facts -->
+<!-- artist link -->
+<ol class="breadcrumb noprint" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com" itemprop="item"><span itemprop="name">AZLyrics</span></a><meta content="1" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a.html" itemprop="item"><span itemprop="name">A</span></a><meta content="2" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a/a1.html" itemprop="item"><span itemprop="name">A1 Lyrics</span></a><meta content="3" itemprop="position"/></li>
+</ol>
+<!-- album songlists -->
+<div class="panel songlist-panel noprint">
+<div class="songinalbum_title">album: <b>"Here We Come"</b> (1999)</div>
+<div class="listalbum-item"><a href="foreverinlove.html">Forever In Love</a></div>
+<div class="listalbum-item"><a href="bethefirsttobelieve.html">Be The First To Believe</a></div>
+<div class="listalbum-item"><a href="summertimeofourlives.html">Summertime Of Our Lives</a></div>
+<div class="listalbum-item"><a href="readyornot.html">Ready Or Not</a></div>
+<div class="listalbum-item"><a href="everytime.html">Everytime</a></div>
+<div class="listalbum-item"><a href="ifonly.html">If Only</a></div>
+<div class="listalbum-item"><a href="heyyou.html">Hey You</a></div>
+<div class="listalbum-item"><a href="likearose.html">Like A Rose</a></div>
+<div class="listalbum-item"><a href="walkingintherain.html">Walking In The Rain</a></div>
+<div class="listalbum-item"><a href="stillaround.html">Still Around</a></div>
+<div class="listalbum-item"><a href="istillbelieve.html">I Still Believe</a></div>
+<div class="listalbum-item"><a href="heavenbyyourside.html">Heaven By Your Side</a></div>
+</div>
+<!-- album songlists end -->
+<form action="//search.azlyrics.com/search.php" class="search noprint" method="get" role="search">
+<div class="input-group" style="margin-bottom:15px">
+<input class="form-control" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+<div class="noprint visible-xs-block" style="margin-top:5px;margin-bottom:5px">
+<div id="RTK_yc1Z"></div>
+</div>
+</div> <!-- content -->
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+</div>
+</div> <!-- container main-page -->
+<!-- nav bottom -->
+<nav class="navbar navbar-default navbar-bottom">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/add.php" onclick="document.forms['addsong'].submit();return false;">Submit Lyrics</a></li>
+<li><a href="//www.stlyrics.com">Soundtracks</a></li>
+<li><a href="//www.facebook.com/pages/AZLyricscom/154139197951223">Facebook</a></li>
+<li><a href="//www.azlyrics.com/contact.html">Contact Us</a></li>
+</ul>
+</div>
+</nav>
+<!-- bot ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_W2xH"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- footer -->
+<nav class="navbar navbar-footer noprint">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/adv.html">Advertise Here</a></li>
+<li><a href="//www.azlyrics.com/privacy.html">Privacy Policy</a></li>
+<li><a href="//www.azlyrics.com/cookie.html">Cookie Policy</a></li>
+<li><a href="//www.azlyrics.com/copyright.html">DMCA Policy</a></li>
+</ul>
+</div>
+</nav>
+<div class="footer-wrap">
+<div class="container">
+<div class="noprint"><span style="font-weight:bold;line-height:54px;vertical-align:top;">Lyrics licensed by </span><img alt="MusixMatch" height="54" src="//www.azlyrics.com/images/mxm.png" width="184"/></div>
+<small>
+<script type="text/javascript">
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             </script>
+</small>
+</div>
+</div>
+<script>
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "pop";
+cf_no_bit = 0;
+</script>
+<script src="/local/anew.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div class="hidden" id="CssFailCheck" style="height:1px;"></div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="//www.azlyrics.com/local/jquery.min.js"><\/script>')</script>
+<script>
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="//www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="//www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    </script>
+<script src="/local/az.js"></script>
+<script src="/geo.js"></script>
+<script src="https://tracking.musixmatch.com/t1.0/m_js/e_0/sn_0/l_19802836/su_0/rs_0/tr_3vUCAPaJao5Yj0OIK9IEj_hhOLhEY8CdxJduv3_zQufBVUWpgrIMhnnvlvUMuygPIBIAUjMzH1aRRengapUUwOOnh03zQQH3ijSJUtG-mJtzfexOwAPMSgt3rJhYAsDQuDQyLVhYJaR7TQ4OuB7KJbEdOzBGVOMe_o5-DjrcS3hq6bu2Dbp50Lw3cjVe_YZZrm-jt8JIiiz1bv1mcRbPQd2ou3xQEbhK0EA023W6KoKvPLLqSAsqu3rJMT_zs5C1vW4lUSGzDMU08x4g_L2q7tlxfiOUXDO62fgSaqohPoAV9aIjm2-YgnV1SQgr0H-4uwdVxsKrLKvBMo1YG73XhSmnFx7KVAMOqOFmpHF1O7APJ8U7x8tSlyiAHfENkxepq0r4xo1t31NkP12f3WSU9OhneTAJTRhBDYW91RpatOML1LJeo81j-JAvszdZFcPzJU0/" type="text/javascript"></script>
+</body>
+</html>
+, 'https://www.azlyrics.com/lyrics/a1/stillaround.html': <!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content='A1 "Still Around": IN THIS LIFE OF UNCERTAINTY THERE ARE PEOPLE THAT WE ALL NEED SOMEONE TO FACE YOU, WITH NO DISGUIS...' name="description"/>
+<meta content="Still Around lyrics, A1 Still Around lyrics, A1 lyrics" name="keywords"/>
+<meta content="noarchive" name="robots"/>
+<meta content="//www.azlyrics.com/az_logo_tr.png" property="og:image"/>
+<title>A1 - Still Around Lyrics | AZLyrics.com</title>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/local/az.css" rel="stylesheet"/>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script charset="UTF-8" data-domain-script="464b7175-7273-4e0f-8753-e9a483d4a156" data-language="en" src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" type="text/javascript"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<script type="text/javascript">
+ArtistName = "A1";
+SongName = "Still Around";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+</script>
+</head>
+<body class="az-song-text">
+<nav class="navbar navbar-default navbar-static-top noprint">
+<div class="container">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+<button class="navbar-toggle collapsed" data-target="#search-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-search"></span>
+</button>
+<button class="navbar-toggle collapsed" data-target="#artists-collapse" data-toggle="collapse" type="button">
+<span class="glyphicon glyphicon-th-list"></span>
+</button>
+<a class="navbar-brand" href="//www.azlyrics.com"><img alt="AZLyrics.com" class="pull-left" src="//www.azlyrics.com/az_logo_tr.png" style="max-height:40px; margin-top:-10px;"/></a>
+</div>
+<ul class="collapse navbar-collapse nav navbar-nav" id="artists-collapse">
+<li>
+<div class="btn-group text-center" role="group">
+<a class="btn btn-menu" href="//www.azlyrics.com/a.html">A</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/b.html">B</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/c.html">C</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/d.html">D</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/e.html">E</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/f.html">F</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/g.html">G</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/h.html">H</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/i.html">I</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/j.html">J</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/k.html">K</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/l.html">L</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/m.html">M</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/n.html">N</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/o.html">O</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/p.html">P</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/q.html">Q</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/r.html">R</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/s.html">S</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/t.html">T</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/u.html">U</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/v.html">V</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/w.html">W</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/x.html">X</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/y.html">Y</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/z.html">Z</a>
+<a class="btn btn-menu" href="//www.azlyrics.com/19.html">#</a>
+</div>
+</li>
+</ul>
+<div class="collapse navbar-collapse" id="search-collapse">
+<form action="//search.azlyrics.com/search.php" class="navbar-form navbar-right search" method="get" role="search">
+<div class="input-group">
+<input class="form-control" id="q" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container -->
+</nav>
+<!-- top ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_67Y3"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- main -->
+<div class="container main-page">
+<div class="row">
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+<!-- content -->
+<div class="col-xs-12 col-lg-8 text-center">
+<div class="div-share noprint">
+<div class="addthis_toolbox addthis_default_style">
+<a class="btn btn-xs btn-share addthis_button_facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fstillaround.html&amp;title=A1%20-%20Still%20Around%20Lyrics%20%7C%20AZLyrics.com&amp;display=page" target="_blank">
+<span class="playblk"><img alt="Share on Facebook" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/facebook.svg" title="Share on Facebook" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fstillaround.html&amp;text=A1%20-%20Still%20Around%20Lyrics%20%7C%20AZLyrics.com" target="_blank">
+<span class="playblk"><img alt="Share on Twiiter" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/twitter.svg" title="Share on Twiiter" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_email" href="mailto:?subject=A1%20-%20Still%20Around%20Lyrics%20%7C%20AZLyrics.com&amp;body=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fa1%2Fstillaround.html" target="_blank">
+<span class="playblk"><img alt="Email" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/email.svg" title="Email" width="25"/></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_print" href="javascript:void(window.print());" style="margin-right: 0px !important;">
+<span class="playblk"><img alt="Print" class="playblk" height="25" src="//www.azlyrics.com/images/share-icons/print.svg" title="Print" width="25"/></span>
+</a>
+</div>
+</div>
+<div class="div-share"><h1>"Still Around" lyrics</h1></div>
+<div class="lyricsh">
+<h2><a href="//www.azlyrics.com/a/a1.html"><b>A1 Lyrics</b></a></h2>
+</div>
+<div class="ringtone">
+<span id="cf_text_top"></span>
+</div>
+<b>"Still Around"</b><br/>
+<br/>
+<div>
+<!-- Usage of azlyrics.com content by any third-party lyrics provider is prohibited by our licensing agreement. Sorry about that. -->
+<i>[VERSE 1]</i><br/>
+<br/>
+IN THIS LIFE OF UNCERTAINTY<br/>
+THERE ARE PEOPLE THAT WE ALL NEED<br/>
+SOMEONE TO FACE YOU, WITH NO DISGUISE<br/>
+IN YOU THERES A REMEDY<br/>
+THAT MAKES EVERYDAY SEEM TROUBLE FREE<br/>
+NO DISTANCE AND NO DEVICE<br/>
+<br/>
+<i>[BRIDGE 1]</i><br/>
+<br/>
+'COS YOU HEAR THE WORDS<br/>
+WHEN NO ONE UNDERSTANDS<br/>
+<br/>
+<i>[CHORUS]</i><br/>
+<br/>
+WHEN MY WORLD HAS COME UNDONE<br/>
+AND I'VE LOST MY SETTING SUN<br/>
+WHEN ALL I SEE ARE CLOUDS<br/>
+YOU'RE STILL AROUND<br/>
+WHEN I FALL INTO A TEAR<br/>
+INSPIRATIONS DISAPPEAR<br/>
+YOU CLEAR AWAY THAT DOUBT<br/>
+'COS YOU'RE STILL, YOU'RE STILL AROUND<br/>
+<br/>
+<i>[VERSE 2]</i><br/>
+<br/>
+NOW I'VE STUMBLED ON UNCERTAINTY<br/>
+NEVER THOUGHT THIS COULD EVER BE<br/>
+NO CONTRADICTIONS LEFT INSIDE<br/>
+WHEN I FEEL THE RAIN COME MY WAY<br/>
+YOU GIVE ME SUN, YOU'RE MY BRIGHTER DAY<br/>
+INTUITION'S TELLING ME TO STAY<br/>
+<br/>
+<i>[BRIDGE 2]</i><br/>
+<br/>
+'COS YOU HOLD THE WORDS WHEN NOTHINGS LEFT TO SAY<br/>
+<i>[CHORUS]</i><br/>
+<br/>
+<i>[VERSE 3]</i><br/>
+<br/>
+IN THIS LIFE OF UNCERTAINTY<br/>
+THERE ARE PEOPLE THAT WE ALL NEED<br/>
+SOMEONE TO FACE YOU, WITH NO DISGUISE<br/>
+IN YOU THERES A REMEDY<br/>
+THAT MAKES EVERYDAY SEEM TROUBLE FREE<br/>
+NO DISTANCE AND NO DEVICE<br/>
+<br/>
+<i>[BRIDGE 3]</i><br/>
+<br/>
+'COS YOU HOLD THE WORDS<br/>
+WHEN NOTHINGS LEFT TO SAY<br/>
+<br/>
+<i>[CHORUS REPEAT X 2]</i>
+</div>
+<br/><br/>
+<!-- MxM banner -->
+<div class="noprint" id="azmxmbanner" style="display:none;">
+<script>
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.getElementById('azmxmbanner').style.display='block';
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="//adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_1149966/su_0/rs_0/tr_3vUCAKMn2Mzhvn-bx5e0vRrb0WIwN15kLnmV6VmW_LUhUqqwUKV9_OMnOkepTyXOOLSS3aVzrHz3P_5yqk7rtqu9HETlpU7JBgKJ_YXmen6_s6cho0UkOSdORcIxl-b8P0ztAEEqjIzlq_OX5orFtSOMkfNau7wahxmZDNmUcN96PnlfI9EFnWY3mYr71i30vhLRmH3pG2YAGt61ptiyGfv7hyA5T-t8aR8axz6-HHUjmLfxRBwBEV_LQDbx_tBWU1n6rsmZWQFsoaLA6qZTtcsHexql_dE2hEAPIQBeB_pTqoQ64VpTDoNdaXKYhyLp7H-T6b3AwcJxT0b252NW7ihPD9mqsquGvsRQHf9T-92ORwqF-OQZCalRV39edFXd3VzWH3K8cxZyGyTDx99pAasqo1kEMFSmJZ75zlHA7Jjt3pOQclULgMJz/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+</script>
+<br/><br/>
+</div>
+<form action="../../add.php" id="addsong" method="post">
+<input name="what" type="hidden" value="add_song"/>
+<input name="artist" type="hidden" value="A1"/>
+<input name="artist_id" type="hidden" value="29"/>
+</form>
+<form action="../../add.php" id="corlyr" method="post">
+<input name="what" type="hidden" value="correct_lyrics"/>
+<input name="song_id" type="hidden" value="217"/>
+</form>
+<div class="smt noprint">
+<a class="btn btn-primary" href="#" onclick="submitCorrections()"><span class="glyphicon glyphicon-pencil"></span> Submit Corrections</a>
+</div>
+<div class="smt"></div>
+<div class="noprint" style="padding: 15px 0">
+<span id="cf_text_bottom"></span>
+</div>
+<!-- credits -->
+<div class="smt"><small>Writer(s): Steve Mac, Sheppard J Solomon</small>
+<br/>
+</div>
+<!-- song facts -->
+<!-- artist link -->
+<ol class="breadcrumb noprint" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com" itemprop="item"><span itemprop="name">AZLyrics</span></a><meta content="1" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a.html" itemprop="item"><span itemprop="name">A</span></a><meta content="2" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="//www.azlyrics.com/a/a1.html" itemprop="item"><span itemprop="name">A1 Lyrics</span></a><meta content="3" itemprop="position"/></li>
+</ol>
+<!-- album songlists -->
+<div class="panel songlist-panel noprint">
+<div class="songinalbum_title">album: <b>"Here We Come"</b> (1999)</div>
+<div class="listalbum-item"><a href="foreverinlove.html">Forever In Love</a></div>
+<div class="listalbum-item"><a href="bethefirsttobelieve.html">Be The First To Believe</a></div>
+<div class="listalbum-item"><a href="summertimeofourlives.html">Summertime Of Our Lives</a></div>
+<div class="listalbum-item"><a href="readyornot.html">Ready Or Not</a></div>
+<div class="listalbum-item"><a href="everytime.html">Everytime</a></div>
+<div class="listalbum-item"><a href="ifonly.html">If Only</a></div>
+<div class="listalbum-item"><a href="heyyou.html">Hey You</a></div>
+<div class="listalbum-item"><a href="likearose.html">Like A Rose</a></div>
+<div class="listalbum-item"><a href="walkingintherain.html">Walking In The Rain</a></div>
+<div class="listalbum-item"><a href="stillaround.html">Still Around</a></div>
+<div class="listalbum-item"><a href="istillbelieve.html">I Still Believe</a></div>
+<div class="listalbum-item"><a href="heavenbyyourside.html">Heaven By Your Side</a></div>
+</div>
+<!-- album songlists end -->
+<form action="//search.azlyrics.com/search.php" class="search noprint" method="get" role="search">
+<div class="input-group" style="margin-bottom:15px">
+<input class="form-control" name="q" placeholder="" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+</span>
+</div>
+</form>
+<div class="noprint visible-xs-block" style="margin-top:5px;margin-bottom:5px">
+<div id="RTK_yc1Z"></div>
+</div>
+</div> <!-- content -->
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+<div class="sky-ad"></div>
+</div>
+</div>
+</div> <!-- container main-page -->
+<!-- nav bottom -->
+<nav class="navbar navbar-default navbar-bottom">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/add.php" onclick="document.forms['addsong'].submit();return false;">Submit Lyrics</a></li>
+<li><a href="//www.stlyrics.com">Soundtracks</a></li>
+<li><a href="//www.facebook.com/pages/AZLyricscom/154139197951223">Facebook</a></li>
+<li><a href="//www.azlyrics.com/contact.html">Contact Us</a></li>
+</ul>
+</div>
+</nav>
+<!-- bot ban -->
+<div class="lboard-wrap noprint">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 top-ad text-center">
+<div id="RTK_W2xH"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- footer -->
+<nav class="navbar navbar-footer noprint">
+<div class="container text-center">
+<ul class="nav navbar-nav navbar-center">
+<li><a href="//www.azlyrics.com/adv.html">Advertise Here</a></li>
+<li><a href="//www.azlyrics.com/privacy.html">Privacy Policy</a></li>
+<li><a href="//www.azlyrics.com/cookie.html">Cookie Policy</a></li>
+<li><a href="//www.azlyrics.com/copyright.html">DMCA Policy</a></li>
+</ul>
+</div>
+</nav>
+<div class="footer-wrap">
+<div class="container">
+<div class="noprint"><span style="font-weight:bold;line-height:54px;vertical-align:top;">Lyrics licensed by </span><img alt="MusixMatch" height="54" src="//www.azlyrics.com/images/mxm.png" width="184"/></div>
+<small>
+<script type="text/javascript">
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             </script>
+</small>
+</div>
+</div>
+<script>
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "pop";
+cf_no_bit = 0;
+</script>
+<script src="/local/anew.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div class="hidden" id="CssFailCheck" style="height:1px;"></div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="//www.azlyrics.com/local/jquery.min.js"><\/script>')</script>
+<script>
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="//www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="//www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    </script>
+<script src="/local/az.js"></script>
+<script src="/geo.js"></script>
+<script src="https://tracking.musixmatch.com/t1.0/m_js/e_0/sn_0/l_1149966/su_0/rs_0/tr_3vUCAKMn2Mzhvn-bx5e0vRrb0WIwN15kLnmV6VmW_LUhUqqwUKV9_OMnOkepTyXOOLSS3aVzrHz3P_5yqk7rtqu9HETlpU7JBgKJ_YXmen6_s6cho0UkOSdORcIxl-b8P0ztAEEqjIzlq_OX5orFtSOMkfNau7wahxmZDNmUcN96PnlfI9EFnWY3mYr71i30vhLRmH3pG2YAGt61ptiyGfv7hyA5T-t8aR8axz6-HHUjmLfxRBwBEV_LQDbx_tBWU1n6rsmZWQFsoaLA6qZTtcsHexql_dE2hEAPIQBeB_pTqoQ64VpTDoNdaXKYhyLp7H-T6b3AwcJxT0b252NW7ihPD9mqsquGvsRQHf9T-92ORwqF-OQZCalRV39edFXd3VzWH3K8cxZyGyTDx99pAasqo1kEMFSmJZ75zlHA7Jjt3pOQclULgMJz/" type="text/javascript"></script>
+</body>
+</html>
+}
