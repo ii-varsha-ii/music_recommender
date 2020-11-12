@@ -15,12 +15,13 @@ def wordNorm(text):
     stemmer = SnowballStemmer("english")
     new_text = []
     tokenizer = RegexpTokenizer(r'\w+')
+
     word_list = tokenizer.tokenize(text.lower())
     filtered_words_en = [word for word in word_list if word not in stopwords.words('english')]
     stemming_words = [stemmer.stem(word) for word in filtered_words_en]
     d = enchant.Dict("en_US")
     for word in stemming_words:
-        if not word.isdigit() and len(word)>1 and d.check(word):
+        if not word.isdigit() and len(word) > 1 and d.check(word):
             new_text.append(word)
     return new_text
 
@@ -30,7 +31,7 @@ def allWords(jsondir):
     k = []
     count = 0
     for file in os.listdir(jsondir):
-        print(file)
+        # print(file)
 
         d = json.loads(codecs.open(jsondir + file, "r", encoding='ISO-8859-1').read())
         count += 1
@@ -40,8 +41,9 @@ def allWords(jsondir):
         # print(d['lyrics'])
         for item in word_list:
             k.append(item)
-        print(count, '---> JSON IN VOCABULARY')
+        # print(count, '---> JSON IN VOCABULARY')
     return k
+
 
 def createVocab(allwords):
     # This function take in input an array with all words, create the set and assign an ID to each term
@@ -49,7 +51,7 @@ def createVocab(allwords):
     vocabulary = {}
     word_list = sorted(list(set(allwords)))
     for ID, elem in enumerate(word_list):
-        vocabulary.update({elem : ID})
+        vocabulary.update({elem: ID})
     return vocabulary
 
 
@@ -64,6 +66,15 @@ def term_freq(term, txt):
                 count += 1
         return count / len(txt)
 
+
+# def getText(json_name):
+#     # Get lyrics text from MongoDB by json name file
+#     db = client['songs']
+#     collection = db['LyricsDB']
+#     cursor = collection.find({"_id": json_name}, {"_id": 0, "Info.lyrics": 1})
+#     for doc in cursor:
+#         text = doc['Info']['lyrics']
+#     return text
 
 def invertedIndex(vocab, jsondir):
     # invIndex = {termID : (doc, TF)}
@@ -89,16 +100,32 @@ def invertedIndex(vocab, jsondir):
     return invIndex
 
 
-k = allWords('lyrics_collection//json_folder//')
-v = createVocab(k)
-file = open('vocab.json', 'w')
-try:
-    json.dump(v, file)
-except:
-    pass
-dizionario = invertedIndex(v,'lyrics_collection//json_folder//')
-file2 = open('inverted_index.json', 'w')
-try:
-    json.dump(dizionario, file2)
-except:
-    pass
+jsondir = 'lyrics_collection//json_folder//'
+
+def idf(invIndex, k):
+    idf = math.log((10 / len(invIndex[str(k)])))
+    return(idf)
+
+def getText(file):
+    invIndex = {}
+    counter = 0
+    d = json.loads(codecs.open(jsondir + file, "r", encoding='ISO-8859-1').read())
+    counter += 1
+    txt = d['lyrics']
+    return txt
+
+
+if __name__ == '__main__':
+    k = allWords('lyrics_collection//json_folder//')
+    v = createVocab(k)
+    file = open('vocab.json', 'w')
+    try:
+        json.dump(v, file)
+    except:
+        pass
+    dizionario = invertedIndex(v, 'lyrics_collection//json_folder//')
+    file2 = open('inverted_index.json', 'w')
+    try:
+        json.dump(dizionario, file2)
+    except:
+        pass
