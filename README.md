@@ -1,5 +1,5 @@
 # Music Recommendation Engine 
-Music Recommendation &amp; Search Engine using content and collaborative based recommendation filtering techniques
+Music Recommendation &amp; Search Engine using content based recommendation filtering techniques
 
 A recommender system is a filtering system which aim is to predict a rating or preference a user
 would give to an item, eg. a film, a product, a song, etc.
