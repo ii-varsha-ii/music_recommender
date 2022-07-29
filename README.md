@@ -16,16 +16,13 @@ them, and based on that, recommend those songs to the user.
 Term Frequency-Inverse Document Frequency (TF-IDF) can be used for this matching
 process since we deal with song lyrics/text here
 
-### Phase 1:
-Crawling and Scrapping:
+### Phase 1: Crawling and Scrapping:
 This method takes in input a path to the directory that contains all the
 html files crawled from AZlyrics and returns a dictionary for each html file
 
-### Phase 2:
-Indexing:
+### Phase 2: Indexing:
 1. Generates Vocabulary and Inverted Index from json files.
 2. Finds the tfidf values and cosine similarity table values
 
-### Phase 3:
-Ranking:
+### Phase 3: Ranking:
 Rank the words based on the cosine-similarity values computed in the previous step
