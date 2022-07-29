@@ -1,0 +1,8 @@
+{
+    "client_id": "REPLACE_CLIENT_ID",
+    "client_secret": "REPLACE_CLIENT_SECRET",
+    "user_id": "REPLACE_SPOTIFY_USER_ID",
+    "public_tracks_playlist": "REPLACE_PUBLIC_TRACKS_PLAYLIST",
+    "genius_key": "REPLACE_GENIUS_KEY",
+    "musixmatch_key": "REPLACE_MUSIC_MATCH_KEY"
+}
